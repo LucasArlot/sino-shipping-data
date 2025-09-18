@@ -1,0 +1,4619 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "lastUpdated": "2025-08-29",
+    "totalCountries": 195,
+    "source": "ISO 3166-1",
+    "description": "Référentiel pays unique pour shipping international"
+  },
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "slug": "afghanistan",
+      "continent": "asia",
+      "iso2": "AF",
+      "aliases": [
+        "Afghan",
+        "Afghanestan"
+      ],
+      "capital": "Kabul",
+      "major_ports_or_airports": [
+        "Kabul Airport",
+        "Kandahar Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Requires special permits for certain goods",
+      "priority": 1,
+      "legacy_path": null
+    },
+    {
+      "name": "Albania",
+      "slug": "albania",
+      "continent": "europe",
+      "iso2": "AL",
+      "aliases": [
+        "Shqipëri",
+        "Shqipëria"
+      ],
+      "capital": "Tirana",
+      "major_ports_or_airports": [
+        "Tirana Airport",
+        "Durrës Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 2,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-albania/"
+    },
+    {
+      "name": "Algeria",
+      "slug": "algeria",
+      "continent": "africa",
+      "iso2": "DZ",
+      "aliases": [
+        "Algérie"
+      ],
+      "capital": "Algiers",
+      "major_ports_or_airports": [
+        "Algiers Airport",
+        "Oran Airport",
+        "Algiers Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 3,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-algeria/"
+    },
+    {
+      "name": "Andorra",
+      "slug": "andorra",
+      "continent": "europe",
+      "iso2": "AD",
+      "aliases": [
+        "Principality of Andorra"
+      ],
+      "capital": "Andorra la Vella",
+      "major_ports_or_airports": [
+        "Andorra la Vella Heliport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country, limited shipping options",
+      "priority": 4,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-andorra/"
+    },
+    {
+      "name": "Angola",
+      "slug": "angola",
+      "continent": "africa",
+      "iso2": "AO",
+      "aliases": [
+        "República de Angola"
+      ],
+      "capital": "Luanda",
+      "major_ports_or_airports": [
+        "Luanda Airport",
+        "Luanda Port",
+        "Lobito Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 5,
+      "legacy_path": null
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "slug": "antigua-and-barbuda",
+      "continent": "north-america",
+      "iso2": "AG",
+      "aliases": [
+        "Antigua",
+        "Barbuda"
+      ],
+      "capital": "Saint John's",
+      "major_ports_or_airports": [
+        "V.C. Bird International Airport",
+        "Saint John's Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 6,
+      "legacy_path": null
+    },
+    {
+      "name": "Argentina",
+      "slug": "argentina",
+      "continent": "south-america",
+      "iso2": "AR",
+      "aliases": [
+        "República Argentina"
+      ],
+      "capital": "Buenos Aires",
+      "major_ports_or_airports": [
+        "Ezeiza Airport",
+        "Buenos Aires Port",
+        "Rosario Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 7,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-argentina/"
+    },
+    {
+      "name": "Armenia",
+      "slug": "armenia",
+      "continent": "asia",
+      "iso2": "AM",
+      "aliases": [
+        "Hayastan",
+        "Հայաստան"
+      ],
+      "capital": "Yerevan",
+      "major_ports_or_airports": [
+        "Zvartnots Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 8,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-armenia/"
+    },
+    {
+      "name": "Australia",
+      "slug": "australia",
+      "continent": "oceania",
+      "iso2": "AU",
+      "aliases": [
+        "Oz",
+        "Down Under"
+      ],
+      "capital": "Canberra",
+      "major_ports_or_airports": [
+        "Sydney Airport",
+        "Melbourne Airport",
+        "Brisbane Airport",
+        "Sydney Port",
+        "Melbourne Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Strict biosecurity requirements",
+      "priority": 9,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-australia/"
+    },
+    {
+      "name": "Austria",
+      "slug": "austria",
+      "continent": "europe",
+      "iso2": "AT",
+      "aliases": [
+        "Österreich"
+      ],
+      "capital": "Vienna",
+      "major_ports_or_airports": [
+        "Vienna Airport",
+        "Salzburg Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 10,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-austria/"
+    },
+    {
+      "name": "Azerbaijan",
+      "slug": "azerbaijan",
+      "continent": "asia",
+      "iso2": "AZ",
+      "aliases": [
+        "Azərbaycan"
+      ],
+      "capital": "Baku",
+      "major_ports_or_airports": [
+        "Heydar Aliyev Airport",
+        "Baku Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 11,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-azerbaijan/"
+    },
+    {
+      "name": "Bahamas",
+      "slug": "bahamas",
+      "continent": "north-america",
+      "iso2": "BS",
+      "aliases": [
+        "The Bahamas",
+        "Commonwealth of The Bahamas"
+      ],
+      "capital": "Nassau",
+      "major_ports_or_airports": [
+        "Lynden Pindling Airport",
+        "Nassau Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 12,
+      "legacy_path": null
+    },
+    {
+      "name": "Bahrain",
+      "slug": "bahrain",
+      "continent": "asia",
+      "iso2": "BH",
+      "aliases": [
+        "Al-Bahrayn",
+        "البحرين"
+      ],
+      "capital": "Manama",
+      "major_ports_or_airports": [
+        "Bahrain Airport",
+        "Khalifa Bin Salman Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 13,
+      "legacy_path": null
+    },
+    {
+      "name": "Bangladesh",
+      "slug": "bangladesh",
+      "continent": "asia",
+      "iso2": "BD",
+      "aliases": [
+        "গণপ্রজাতন্ত্রী বাংলাদেশ"
+      ],
+      "capital": "Dhaka",
+      "major_ports_or_airports": [
+        "Dhaka Airport",
+        "Chittagong Port",
+        "Mongla Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 14,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-bangladesh/"
+    },
+    {
+      "name": "Barbados",
+      "slug": "barbados",
+      "continent": "north-america",
+      "iso2": "BB",
+      "aliases": [
+        "Bim"
+      ],
+      "capital": "Bridgetown",
+      "major_ports_or_airports": [
+        "Grantley Adams Airport",
+        "Bridgetown Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 15,
+      "legacy_path": null
+    },
+    {
+      "name": "Belarus",
+      "slug": "belarus",
+      "continent": "europe",
+      "iso2": "BY",
+      "aliases": [
+        "Беларусь",
+        "Belorussia"
+      ],
+      "capital": "Minsk",
+      "major_ports_or_airports": [
+        "Minsk Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 16,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-belarus/"
+    },
+    {
+      "name": "Belgium",
+      "slug": "belgium",
+      "continent": "europe",
+      "iso2": "BE",
+      "aliases": [
+        "België",
+        "Belgique",
+        "Belgien"
+      ],
+      "capital": "Brussels",
+      "major_ports_or_airports": [
+        "Brussels Airport",
+        "Antwerp Port",
+        "Zeebrugge Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 17,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-belgium/"
+    },
+    {
+      "name": "Belize",
+      "slug": "belize",
+      "continent": "north-america",
+      "iso2": "BZ",
+      "aliases": [
+        "British Honduras"
+      ],
+      "capital": "Belmopan",
+      "major_ports_or_airports": [
+        "Philip S. W. Goldson Airport",
+        "Belize City Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 18,
+      "legacy_path": null
+    },
+    {
+      "name": "Benin",
+      "slug": "benin",
+      "continent": "africa",
+      "iso2": "BJ",
+      "aliases": [
+        "Dahomey"
+      ],
+      "capital": "Porto-Novo",
+      "major_ports_or_airports": [
+        "Cotonou Airport",
+        "Cotonou Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 19,
+      "legacy_path": null
+    },
+    {
+      "name": "Bhutan",
+      "slug": "bhutan",
+      "continent": "asia",
+      "iso2": "BT",
+      "aliases": [
+        "Druk Yul",
+        "འབྲུག་ཡུལ"
+      ],
+      "capital": "Thimphu",
+      "major_ports_or_airports": [
+        "Paro Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 20,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-bhutan/"
+    },
+    {
+      "name": "Bolivia",
+      "slug": "bolivia",
+      "continent": "south-america",
+      "iso2": "BO",
+      "aliases": [
+        "Estado Plurinacional de Bolivia"
+      ],
+      "capital": "Sucre",
+      "major_ports_or_airports": [
+        "El Alto Airport",
+        "La Paz Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 21,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-bolivia/"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "slug": "bosnia-and-herzegovina",
+      "continent": "europe",
+      "iso2": "BA",
+      "aliases": [
+        "Bosnia",
+        "Herzegovina",
+        "BiH"
+      ],
+      "capital": "Sarajevo",
+      "major_ports_or_airports": [
+        "Sarajevo Airport",
+        "Neum Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 22,
+      "legacy_path": null
+    },
+    {
+      "name": "Botswana",
+      "slug": "botswana",
+      "continent": "africa",
+      "iso2": "BW",
+      "aliases": [
+        "Republic of Botswana"
+      ],
+      "capital": "Gaborone",
+      "major_ports_or_airports": [
+        "Sir Seretse Khama Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 23,
+      "legacy_path": null
+    },
+    {
+      "name": "Brazil",
+      "slug": "brazil",
+      "continent": "south-america",
+      "iso2": "BR",
+      "aliases": [
+        "Brasil",
+        "República Federativa do Brasil"
+      ],
+      "capital": "Brasília",
+      "major_ports_or_airports": [
+        "São Paulo Airport",
+        "Rio de Janeiro Airport",
+        "Santos Port",
+        "Rio de Janeiro Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 24,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-brazil/"
+    },
+    {
+      "name": "Brunei",
+      "slug": "brunei",
+      "continent": "asia",
+      "iso2": "BN",
+      "aliases": [
+        "Brunei Darussalam"
+      ],
+      "capital": "Bandar Seri Begawan",
+      "major_ports_or_airports": [
+        "Brunei Airport",
+        "Muara Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 25,
+      "legacy_path": null
+    },
+    {
+      "name": "Bulgaria",
+      "slug": "bulgaria",
+      "continent": "europe",
+      "iso2": "BG",
+      "aliases": [
+        "България"
+      ],
+      "capital": "Sofia",
+      "major_ports_or_airports": [
+        "Sofia Airport",
+        "Varna Port",
+        "Burgas Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 26,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-bulgaria/"
+    },
+    {
+      "name": "Burkina Faso",
+      "slug": "burkina-faso",
+      "continent": "africa",
+      "iso2": "BF",
+      "aliases": [
+        "Upper Volta"
+      ],
+      "capital": "Ouagadougou",
+      "major_ports_or_airports": [
+        "Ouagadougou Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 27,
+      "legacy_path": null
+    },
+    {
+      "name": "Burundi",
+      "slug": "burundi",
+      "continent": "africa",
+      "iso2": "BI",
+      "aliases": [
+        "République du Burundi"
+      ],
+      "capital": "Gitega",
+      "major_ports_or_airports": [
+        "Bujumbura Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 28,
+      "legacy_path": null
+    },
+    {
+      "name": "Cabo Verde",
+      "slug": "cabo-verde",
+      "continent": "africa",
+      "iso2": "CV",
+      "aliases": [
+        "Cape Verde",
+        "República de Cabo Verde"
+      ],
+      "capital": "Praia",
+      "major_ports_or_airports": [
+        "Praia Airport",
+        "Mindelo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 29,
+      "legacy_path": null
+    },
+    {
+      "name": "Cambodia",
+      "slug": "cambodia",
+      "continent": "asia",
+      "iso2": "KH",
+      "aliases": [
+        "Kampuchea",
+        "ព្រះរាជាណាចក្រកម្ពុជា"
+      ],
+      "capital": "Phnom Penh",
+      "major_ports_or_airports": [
+        "Phnom Penh Airport",
+        "Siem Reap Airport",
+        "Sihanoukville Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 30,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-cambodia/"
+    },
+    {
+      "name": "Cameroon",
+      "slug": "cameroon",
+      "continent": "africa",
+      "iso2": "CM",
+      "aliases": [
+        "République du Cameroun"
+      ],
+      "capital": "Yaoundé",
+      "major_ports_or_airports": [
+        "Douala Airport",
+        "Douala Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 31,
+      "legacy_path": null
+    },
+    {
+      "name": "Canada",
+      "slug": "canada",
+      "continent": "north-america",
+      "iso2": "CA",
+      "aliases": [
+        "Dominion of Canada"
+      ],
+      "capital": "Ottawa",
+      "major_ports_or_airports": [
+        "Toronto Airport",
+        "Vancouver Airport",
+        "Montreal Airport",
+        "Vancouver Port",
+        "Montreal Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 32,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-canada/"
+    },
+    {
+      "name": "Central African Republic",
+      "slug": "central-african-republic",
+      "continent": "africa",
+      "iso2": "CF",
+      "aliases": [
+        "CAR",
+        "République centrafricaine"
+      ],
+      "capital": "Bangui",
+      "major_ports_or_airports": [
+        "Bangui Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 33,
+      "legacy_path": null
+    },
+    {
+      "name": "Chad",
+      "slug": "chad",
+      "continent": "africa",
+      "iso2": "TD",
+      "aliases": [
+        "République du Tchad"
+      ],
+      "capital": "N'Djamena",
+      "major_ports_or_airports": [
+        "N'Djamena Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 34,
+      "legacy_path": null
+    },
+    {
+      "name": "Chile",
+      "slug": "chile",
+      "continent": "south-america",
+      "iso2": "CL",
+      "aliases": [
+        "República de Chile"
+      ],
+      "capital": "Santiago",
+      "major_ports_or_airports": [
+        "Santiago Airport",
+        "Valparaíso Port",
+        "San Antonio Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 35,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-chile/"
+    },
+    {
+      "name": "China",
+      "slug": "china",
+      "continent": "asia",
+      "iso2": "CN",
+      "aliases": [
+        "People's Republic of China",
+        "PRC",
+        "中华人民共和国"
+      ],
+      "capital": "Beijing",
+      "major_ports_or_airports": [
+        "Beijing Airport",
+        "Shanghai Airport",
+        "Guangzhou Airport",
+        "Shanghai Port",
+        "Shenzhen Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 36,
+      "legacy_path": null
+    },
+    {
+      "name": "Colombia",
+      "slug": "colombia",
+      "continent": "south-america",
+      "iso2": "CO",
+      "aliases": [
+        "República de Colombia"
+      ],
+      "capital": "Bogotá",
+      "major_ports_or_airports": [
+        "El Dorado Airport",
+        "Cartagena Port",
+        "Buenaventura Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 37,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-colombia/"
+    },
+    {
+      "name": "Comoros",
+      "slug": "comoros",
+      "continent": "africa",
+      "iso2": "KM",
+      "aliases": [
+        "Union of the Comoros"
+      ],
+      "capital": "Moroni",
+      "major_ports_or_airports": [
+        "Moroni Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 38,
+      "legacy_path": null
+    },
+    {
+      "name": "Congo",
+      "slug": "congo",
+      "continent": "africa",
+      "iso2": "CG",
+      "aliases": [
+        "Republic of the Congo",
+        "Congo-Brazzaville"
+      ],
+      "capital": "Brazzaville",
+      "major_ports_or_airports": [
+        "Brazzaville Airport",
+        "Pointe-Noire Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 39,
+      "legacy_path": null
+    },
+    {
+      "name": "Costa Rica",
+      "slug": "costa-rica",
+      "continent": "north-america",
+      "iso2": "CR",
+      "aliases": [
+        "República de Costa Rica"
+      ],
+      "capital": "San José",
+      "major_ports_or_airports": [
+        "San José Airport",
+        "Puerto Limón",
+        "Puntarenas Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 40,
+      "legacy_path": null
+    },
+    {
+      "name": "Croatia",
+      "slug": "croatia",
+      "continent": "europe",
+      "iso2": "HR",
+      "aliases": [
+        "Hrvatska"
+      ],
+      "capital": "Zagreb",
+      "major_ports_or_airports": [
+        "Zagreb Airport",
+        "Rijeka Port",
+        "Split Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 41,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-croatia/"
+    },
+    {
+      "name": "Cuba",
+      "slug": "cuba",
+      "continent": "north-america",
+      "iso2": "CU",
+      "aliases": [
+        "República de Cuba"
+      ],
+      "capital": "Havana",
+      "major_ports_or_airports": [
+        "Havana Airport",
+        "Havana Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "US embargo restrictions may apply",
+      "priority": 42,
+      "legacy_path": "https:/sino-shipping.com/freight-china-cuba/"
+    },
+    {
+      "name": "Cyprus",
+      "slug": "cyprus",
+      "continent": "europe",
+      "iso2": "CY",
+      "aliases": [
+        "Κύπρος"
+      ],
+      "capital": "Nicosia",
+      "major_ports_or_airports": [
+        "Larnaca Airport",
+        "Limassol Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 43,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-cyprus/"
+    },
+    {
+      "name": "Czech Republic",
+      "slug": "czech-republic",
+      "continent": "europe",
+      "iso2": "CZ",
+      "aliases": [
+        "Czechia",
+        "Česká republika"
+      ],
+      "capital": "Prague",
+      "major_ports_or_airports": [
+        "Prague Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state, landlocked",
+      "priority": 44,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-czech-republic/"
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "slug": "democratic-republic-of-the-congo",
+      "continent": "africa",
+      "iso2": "CD",
+      "aliases": [
+        "DRC",
+        "Congo-Kinshasa",
+        "Zaire"
+      ],
+      "capital": "Kinshasa",
+      "major_ports_or_airports": [
+        "Kinshasa Airport",
+        "Matadi Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 45,
+      "legacy_path": null
+    },
+    {
+      "name": "Denmark",
+      "slug": "denmark",
+      "continent": "europe",
+      "iso2": "DK",
+      "aliases": [
+        "Danmark"
+      ],
+      "capital": "Copenhagen",
+      "major_ports_or_airports": [
+        "Copenhagen Airport",
+        "Copenhagen Port",
+        "Aarhus Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 46,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-denmark/"
+    },
+    {
+      "name": "Djibouti",
+      "slug": "djibouti",
+      "continent": "africa",
+      "iso2": "DJ",
+      "aliases": [
+        "République de Djibouti"
+      ],
+      "capital": "Djibouti City",
+      "major_ports_or_airports": [
+        "Djibouti Airport",
+        "Djibouti Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 47,
+      "legacy_path": null
+    },
+    {
+      "name": "Dominica",
+      "slug": "dominica",
+      "continent": "north-america",
+      "iso2": "DM",
+      "aliases": [
+        "Commonwealth of Dominica"
+      ],
+      "capital": "Roseau",
+      "major_ports_or_airports": [
+        "Douglas-Charles Airport",
+        "Roseau Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 48,
+      "legacy_path": null
+    },
+    {
+      "name": "Dominican Republic",
+      "slug": "dominican-republic",
+      "continent": "north-america",
+      "iso2": "DO",
+      "aliases": [
+        "República Dominicana"
+      ],
+      "capital": "Santo Domingo",
+      "major_ports_or_airports": [
+        "Las Américas Airport",
+        "Santo Domingo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 49,
+      "legacy_path": null
+    },
+    {
+      "name": "Ecuador",
+      "slug": "ecuador",
+      "continent": "south-america",
+      "iso2": "EC",
+      "aliases": [
+        "República del Ecuador"
+      ],
+      "capital": "Quito",
+      "major_ports_or_airports": [
+        "Quito Airport",
+        "Guayaquil Airport",
+        "Guayaquil Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 50,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-ecuador/"
+    },
+    {
+      "name": "Egypt",
+      "slug": "egypt",
+      "continent": "africa",
+      "iso2": "EG",
+      "aliases": [
+        "مصر",
+        "Arab Republic of Egypt"
+      ],
+      "capital": "Cairo",
+      "major_ports_or_airports": [
+        "Cairo Airport",
+        "Alexandria Port",
+        "Port Said"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 51,
+      "legacy_path": "https:/www.sino-shipping.com/freight-from-china-to-egypt/"
+    },
+    {
+      "name": "El Salvador",
+      "slug": "el-salvador",
+      "continent": "north-america",
+      "iso2": "SV",
+      "aliases": [
+        "República de El Salvador"
+      ],
+      "capital": "San Salvador",
+      "major_ports_or_airports": [
+        "El Salvador Airport",
+        "Acajutla Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 52,
+      "legacy_path": null
+    },
+    {
+      "name": "Equatorial Guinea",
+      "slug": "equatorial-guinea",
+      "continent": "africa",
+      "iso2": "GQ",
+      "aliases": [
+        "República de Guinea Ecuatorial"
+      ],
+      "capital": "Malabo",
+      "major_ports_or_airports": [
+        "Malabo Airport",
+        "Bata Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 53,
+      "legacy_path": null
+    },
+    {
+      "name": "Eritrea",
+      "slug": "eritrea",
+      "continent": "africa",
+      "iso2": "ER",
+      "aliases": [
+        "State of Eritrea"
+      ],
+      "capital": "Asmara",
+      "major_ports_or_airports": [
+        "Asmara Airport",
+        "Massawa Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 54,
+      "legacy_path": null
+    },
+    {
+      "name": "Estonia",
+      "slug": "estonia",
+      "continent": "europe",
+      "iso2": "EE",
+      "aliases": [
+        "Eesti"
+      ],
+      "capital": "Tallinn",
+      "major_ports_or_airports": [
+        "Tallinn Airport",
+        "Tallinn Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 55,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-estonia/"
+    },
+    {
+      "name": "Eswatini",
+      "slug": "eswatini",
+      "continent": "africa",
+      "iso2": "SZ",
+      "aliases": [
+        "Swaziland",
+        "Kingdom of Eswatini"
+      ],
+      "capital": "Mbabane",
+      "major_ports_or_airports": [
+        "King Mswati III Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 56,
+      "legacy_path": null
+    },
+    {
+      "name": "Ethiopia",
+      "slug": "ethiopia",
+      "continent": "africa",
+      "iso2": "ET",
+      "aliases": [
+        "የኢትዮጵያ"
+      ],
+      "capital": "Addis Ababa",
+      "major_ports_or_airports": [
+        "Addis Ababa Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 57,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-ethiopia/"
+    },
+    {
+      "name": "Fiji",
+      "slug": "fiji",
+      "continent": "oceania",
+      "iso2": "FJ",
+      "aliases": [
+        "Republic of Fiji"
+      ],
+      "capital": "Suva",
+      "major_ports_or_airports": [
+        "Nadi Airport",
+        "Suva Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 58,
+      "legacy_path": null
+    },
+    {
+      "name": "Finland",
+      "slug": "finland",
+      "continent": "europe",
+      "iso2": "FI",
+      "aliases": [
+        "Suomi"
+      ],
+      "capital": "Helsinki",
+      "major_ports_or_airports": [
+        "Helsinki Airport",
+        "Helsinki Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 59,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-finland/"
+    },
+    {
+      "name": "France",
+      "slug": "france",
+      "continent": "europe",
+      "iso2": "FR",
+      "aliases": [
+        "République française"
+      ],
+      "capital": "Paris",
+      "major_ports_or_airports": [
+        "Charles de Gaulle Airport",
+        "Le Havre Port",
+        "Marseille Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 60,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-france/"
+    },
+    {
+      "name": "Gabon",
+      "slug": "gabon",
+      "continent": "africa",
+      "iso2": "GA",
+      "aliases": [
+        "République gabonaise"
+      ],
+      "capital": "Libreville",
+      "major_ports_or_airports": [
+        "Libreville Airport",
+        "Port-Gentil Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 61,
+      "legacy_path": null
+    },
+    {
+      "name": "Gambia",
+      "slug": "gambia",
+      "continent": "africa",
+      "iso2": "GM",
+      "aliases": [
+        "The Gambia",
+        "Republic of The Gambia"
+      ],
+      "capital": "Banjul",
+      "major_ports_or_airports": [
+        "Banjul Airport",
+        "Banjul Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 62,
+      "legacy_path": null
+    },
+    {
+      "name": "Georgia",
+      "slug": "georgia",
+      "continent": "asia",
+      "iso2": "GE",
+      "aliases": [
+        "საქართველო"
+      ],
+      "capital": "Tbilisi",
+      "major_ports_or_airports": [
+        "Tbilisi Airport",
+        "Batumi Port",
+        "Poti Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 63,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-georgia/"
+    },
+    {
+      "name": "Germany",
+      "slug": "germany",
+      "continent": "europe",
+      "iso2": "DE",
+      "aliases": [
+        "Deutschland",
+        "Federal Republic of Germany"
+      ],
+      "capital": "Berlin",
+      "major_ports_or_airports": [
+        "Frankfurt Airport",
+        "Munich Airport",
+        "Hamburg Port",
+        "Bremen Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 64,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-germany/"
+    },
+    {
+      "name": "Ghana",
+      "slug": "ghana",
+      "continent": "africa",
+      "iso2": "GH",
+      "aliases": [
+        "Republic of Ghana"
+      ],
+      "capital": "Accra",
+      "major_ports_or_airports": [
+        "Accra Airport",
+        "Tema Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 65,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-ghana/"
+    },
+    {
+      "name": "Greece",
+      "slug": "greece",
+      "continent": "europe",
+      "iso2": "GR",
+      "aliases": [
+        "Ελλάδα",
+        "Hellenic Republic"
+      ],
+      "capital": "Athens",
+      "major_ports_or_airports": [
+        "Athens Airport",
+        "Piraeus Port",
+        "Thessaloniki Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 66,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-greece/"
+    },
+    {
+      "name": "Grenada",
+      "slug": "grenada",
+      "continent": "north-america",
+      "iso2": "GD",
+      "aliases": [
+        "Spice Isle"
+      ],
+      "capital": "St. George's",
+      "major_ports_or_airports": [
+        "Maurice Bishop Airport",
+        "St. George's Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 67,
+      "legacy_path": null
+    },
+    {
+      "name": "Guatemala",
+      "slug": "guatemala",
+      "continent": "north-america",
+      "iso2": "GT",
+      "aliases": [
+        "República de Guatemala"
+      ],
+      "capital": "Guatemala City",
+      "major_ports_or_airports": [
+        "La Aurora Airport",
+        "Puerto Quetzal"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 68,
+      "legacy_path": null
+    },
+    {
+      "name": "Guinea",
+      "slug": "guinea",
+      "continent": "africa",
+      "iso2": "GN",
+      "aliases": [
+        "République de Guinée"
+      ],
+      "capital": "Conakry",
+      "major_ports_or_airports": [
+        "Conakry Airport",
+        "Conakry Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 69,
+      "legacy_path": null
+    },
+    {
+      "name": "Guinea-Bissau",
+      "slug": "guinea-bissau",
+      "continent": "africa",
+      "iso2": "GW",
+      "aliases": [
+        "República da Guiné-Bissau"
+      ],
+      "capital": "Bissau",
+      "major_ports_or_airports": [
+        "Bissau Airport",
+        "Bissau Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 70,
+      "legacy_path": null
+    },
+    {
+      "name": "Guyana",
+      "slug": "guyana",
+      "continent": "south-america",
+      "iso2": "GY",
+      "aliases": [
+        "Co-operative Republic of Guyana"
+      ],
+      "capital": "Georgetown",
+      "major_ports_or_airports": [
+        "Cheddi Jagan Airport",
+        "Georgetown Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 71,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-guyana/"
+    },
+    {
+      "name": "Haiti",
+      "slug": "haiti",
+      "continent": "north-america",
+      "iso2": "HT",
+      "aliases": [
+        "République d'Haïti"
+      ],
+      "capital": "Port-au-Prince",
+      "major_ports_or_airports": [
+        "Port-au-Prince Airport",
+        "Port-au-Prince Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 72,
+      "legacy_path": null
+    },
+    {
+      "name": "Honduras",
+      "slug": "honduras",
+      "continent": "north-america",
+      "iso2": "HN",
+      "aliases": [
+        "República de Honduras"
+      ],
+      "capital": "Tegucigalpa",
+      "major_ports_or_airports": [
+        "Tegucigalpa Airport",
+        "Puerto Cortés"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 73,
+      "legacy_path": null
+    },
+    {
+      "name": "Hungary",
+      "slug": "hungary",
+      "continent": "europe",
+      "iso2": "HU",
+      "aliases": [
+        "Magyarország"
+      ],
+      "capital": "Budapest",
+      "major_ports_or_airports": [
+        "Budapest Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state, landlocked",
+      "priority": 74,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-hungary/"
+    },
+    {
+      "name": "Iceland",
+      "slug": "iceland",
+      "continent": "europe",
+      "iso2": "IS",
+      "aliases": [
+        "Ísland"
+      ],
+      "capital": "Reykjavík",
+      "major_ports_or_airports": [
+        "Keflavík Airport",
+        "Reykjavík Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 75,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-iceland/"
+    },
+    {
+      "name": "India",
+      "slug": "india",
+      "continent": "asia",
+      "iso2": "IN",
+      "aliases": [
+        "भारत",
+        "Republic of India"
+      ],
+      "capital": "New Delhi",
+      "major_ports_or_airports": [
+        "Delhi Airport",
+        "Mumbai Airport",
+        "Chennai Airport",
+        "Mumbai Port",
+        "Chennai Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 76,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides-freight-from-china-to-india/"
+    },
+    {
+      "name": "Indonesia",
+      "slug": "indonesia",
+      "continent": "asia",
+      "iso2": "ID",
+      "aliases": [
+        "Republic of Indonesia"
+      ],
+      "capital": "Jakarta",
+      "major_ports_or_airports": [
+        "Jakarta Airport",
+        "Surabaya Airport",
+        "Jakarta Port",
+        "Surabaya Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 77,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-indonesia/"
+    },
+    {
+      "name": "Iran",
+      "slug": "iran",
+      "continent": "asia",
+      "iso2": "IR",
+      "aliases": [
+        "Persia",
+        "Islamic Republic of Iran",
+        "ایران"
+      ],
+      "capital": "Tehran",
+      "major_ports_or_airports": [
+        "Tehran Airport",
+        "Bandar Abbas Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 78,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-iran/"
+    },
+    {
+      "name": "Iraq",
+      "slug": "iraq",
+      "continent": "asia",
+      "iso2": "IQ",
+      "aliases": [
+        "Republic of Iraq",
+        "العراق"
+      ],
+      "capital": "Baghdad",
+      "major_ports_or_airports": [
+        "Baghdad Airport",
+        "Umm Qasr Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 79,
+      "legacy_path": null
+    },
+    {
+      "name": "Ireland",
+      "slug": "ireland",
+      "continent": "europe",
+      "iso2": "IE",
+      "aliases": [
+        "Éire",
+        "Republic of Ireland"
+      ],
+      "capital": "Dublin",
+      "major_ports_or_airports": [
+        "Dublin Airport",
+        "Dublin Port",
+        "Cork Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 80,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-ireland/"
+    },
+    {
+      "name": "Israel",
+      "slug": "israel",
+      "continent": "asia",
+      "iso2": "IL",
+      "aliases": [
+        "ישראל",
+        "State of Israel"
+      ],
+      "capital": "Jerusalem",
+      "major_ports_or_airports": [
+        "Ben Gurion Airport",
+        "Haifa Port",
+        "Ashdod Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 81,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-israel/"
+    },
+    {
+      "name": "Italy",
+      "slug": "italy",
+      "continent": "europe",
+      "iso2": "IT",
+      "aliases": [
+        "Italia",
+        "Italian Republic"
+      ],
+      "capital": "Rome",
+      "major_ports_or_airports": [
+        "Rome Airport",
+        "Milan Airport",
+        "Genoa Port",
+        "Naples Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 82,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-italy/"
+    },
+    {
+      "name": "Ivory Coast",
+      "slug": "ivory-coast",
+      "continent": "africa",
+      "iso2": "CI",
+      "aliases": [
+        "Côte d'Ivoire",
+        "Republic of Côte d'Ivoire"
+      ],
+      "capital": "Yamoussoukro",
+      "major_ports_or_airports": [
+        "Abidjan Airport",
+        "Abidjan Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 83,
+      "legacy_path": null
+    },
+    {
+      "name": "Jamaica",
+      "slug": "jamaica",
+      "continent": "north-america",
+      "iso2": "JM",
+      "aliases": [
+        "Land of Wood and Water"
+      ],
+      "capital": "Kingston",
+      "major_ports_or_airports": [
+        "Kingston Airport",
+        "Kingston Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 84,
+      "legacy_path": null
+    },
+    {
+      "name": "Japan",
+      "slug": "japan",
+      "continent": "asia",
+      "iso2": "JP",
+      "aliases": [
+        "日本",
+        "Land of the Rising Sun"
+      ],
+      "capital": "Tokyo",
+      "major_ports_or_airports": [
+        "Narita Airport",
+        "Haneda Airport",
+        "Tokyo Port",
+        "Osaka Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 85,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-japan/"
+    },
+    {
+      "name": "Jordan",
+      "slug": "jordan",
+      "continent": "asia",
+      "iso2": "JO",
+      "aliases": [
+        "الأردن",
+        "Hashemite Kingdom of Jordan"
+      ],
+      "capital": "Amman",
+      "major_ports_or_airports": [
+        "Amman Airport",
+        "Aqaba Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 86,
+      "legacy_path": null
+    },
+    {
+      "name": "Kazakhstan",
+      "slug": "kazakhstan",
+      "continent": "asia",
+      "iso2": "KZ",
+      "aliases": [
+        "Қазақстан",
+        "Republic of Kazakhstan"
+      ],
+      "capital": "Nur-Sultan",
+      "major_ports_or_airports": [
+        "Almaty Airport",
+        "Nur-Sultan Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 87,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-kazakhstan/"
+    },
+    {
+      "name": "Kenya",
+      "slug": "kenya",
+      "continent": "africa",
+      "iso2": "KE",
+      "aliases": [
+        "Republic of Kenya"
+      ],
+      "capital": "Nairobi",
+      "major_ports_or_airports": [
+        "Nairobi Airport",
+        "Mombasa Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 88,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-kenya/"
+    },
+    {
+      "name": "Kiribati",
+      "slug": "kiribati",
+      "continent": "oceania",
+      "iso2": "KI",
+      "aliases": [
+        "Republic of Kiribati"
+      ],
+      "capital": "Tarawa",
+      "major_ports_or_airports": [
+        "Tarawa Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 89,
+      "legacy_path": null
+    },
+    {
+      "name": "Kuwait",
+      "slug": "kuwait",
+      "continent": "asia",
+      "iso2": "KW",
+      "aliases": [
+        "دولة الكويت",
+        "State of Kuwait"
+      ],
+      "capital": "Kuwait City",
+      "major_ports_or_airports": [
+        "Kuwait Airport",
+        "Kuwait Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 90,
+      "legacy_path": null
+    },
+    {
+      "name": "Kyrgyzstan",
+      "slug": "kyrgyzstan",
+      "continent": "asia",
+      "iso2": "KG",
+      "aliases": [
+        "Кыргызстан",
+        "Kyrgyz Republic"
+      ],
+      "capital": "Bishkek",
+      "major_ports_or_airports": [
+        "Bishkek Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 91,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-kyrgyzstan/"
+    },
+    {
+      "name": "Laos",
+      "slug": "laos",
+      "continent": "asia",
+      "iso2": "LA",
+      "aliases": [
+        "ລາວ",
+        "Lao People's Democratic Republic"
+      ],
+      "capital": "Vientiane",
+      "major_ports_or_airports": [
+        "Vientiane Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 92,
+      "legacy_path": null
+    },
+    {
+      "name": "Latvia",
+      "slug": "latvia",
+      "continent": "europe",
+      "iso2": "LV",
+      "aliases": [
+        "Latvija"
+      ],
+      "capital": "Riga",
+      "major_ports_or_airports": [
+        "Riga Airport",
+        "Riga Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 93,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-latvia/"
+    },
+    {
+      "name": "Lebanon",
+      "slug": "lebanon",
+      "continent": "asia",
+      "iso2": "LB",
+      "aliases": [
+        "لبنان",
+        "Lebanese Republic"
+      ],
+      "capital": "Beirut",
+      "major_ports_or_airports": [
+        "Beirut Airport",
+        "Beirut Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 94,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-lebanon/"
+    },
+    {
+      "name": "Lesotho",
+      "slug": "lesotho",
+      "continent": "africa",
+      "iso2": "LS",
+      "aliases": [
+        "Kingdom of Lesotho"
+      ],
+      "capital": "Maseru",
+      "major_ports_or_airports": [
+        "Maseru Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 95,
+      "legacy_path": null
+    },
+    {
+      "name": "Liberia",
+      "slug": "liberia",
+      "continent": "africa",
+      "iso2": "LR",
+      "aliases": [
+        "Republic of Liberia"
+      ],
+      "capital": "Monrovia",
+      "major_ports_or_airports": [
+        "Monrovia Airport",
+        "Monrovia Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 96,
+      "legacy_path": null
+    },
+    {
+      "name": "Libya",
+      "slug": "libya",
+      "continent": "africa",
+      "iso2": "LY",
+      "aliases": [
+        "ليبيا",
+        "State of Libya"
+      ],
+      "capital": "Tripoli",
+      "major_ports_or_airports": [
+        "Tripoli Airport",
+        "Tripoli Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 97,
+      "legacy_path": null
+    },
+    {
+      "name": "Liechtenstein",
+      "slug": "liechtenstein",
+      "continent": "europe",
+      "iso2": "LI",
+      "aliases": [
+        "Principality of Liechtenstein"
+      ],
+      "capital": "Vaduz",
+      "major_ports_or_airports": [],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country, services via Switzerland",
+      "priority": 98,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-liechtenstein/"
+    },
+    {
+      "name": "Lithuania",
+      "slug": "lithuania",
+      "continent": "europe",
+      "iso2": "LT",
+      "aliases": [
+        "Lietuva"
+      ],
+      "capital": "Vilnius",
+      "major_ports_or_airports": [
+        "Vilnius Airport",
+        "Klaipėda Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 99,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-lithuania/"
+    },
+    {
+      "name": "Luxembourg",
+      "slug": "luxembourg",
+      "continent": "europe",
+      "iso2": "LU",
+      "aliases": [
+        "Lëtzebuerg",
+        "Grand Duchy of Luxembourg"
+      ],
+      "capital": "Luxembourg City",
+      "major_ports_or_airports": [
+        "Luxembourg Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state, landlocked",
+      "priority": 100,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-luxembourg/"
+    },
+    {
+      "name": "Madagascar",
+      "slug": "madagascar",
+      "continent": "africa",
+      "iso2": "MG",
+      "aliases": [
+        "Republic of Madagascar",
+        "Malagasy Republic"
+      ],
+      "capital": "Antananarivo",
+      "major_ports_or_airports": [
+        "Antananarivo Airport",
+        "Toamasina Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 101,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-madagascar/"
+    },
+    {
+      "name": "Malawi",
+      "slug": "malawi",
+      "continent": "africa",
+      "iso2": "MW",
+      "aliases": [
+        "Republic of Malawi"
+      ],
+      "capital": "Lilongwe",
+      "major_ports_or_airports": [
+        "Lilongwe Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 102,
+      "legacy_path": null
+    },
+    {
+      "name": "Malaysia",
+      "slug": "malaysia",
+      "continent": "asia",
+      "iso2": "MY",
+      "aliases": [
+        "مليسيا"
+      ],
+      "capital": "Kuala Lumpur",
+      "major_ports_or_airports": [
+        "Kuala Lumpur Airport",
+        "Port Klang",
+        "Johor Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 103,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-malaysia/"
+    },
+    {
+      "name": "Maldives",
+      "slug": "maldives",
+      "continent": "asia",
+      "iso2": "MV",
+      "aliases": [
+        "Republic of Maldives"
+      ],
+      "capital": "Malé",
+      "major_ports_or_airports": [
+        "Malé Airport",
+        "Malé Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 104,
+      "legacy_path": null
+    },
+    {
+      "name": "Mali",
+      "slug": "mali",
+      "continent": "africa",
+      "iso2": "ML",
+      "aliases": [
+        "Republic of Mali"
+      ],
+      "capital": "Bamako",
+      "major_ports_or_airports": [
+        "Bamako Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 105,
+      "legacy_path": null
+    },
+    {
+      "name": "Malta",
+      "slug": "malta",
+      "continent": "europe",
+      "iso2": "MT",
+      "aliases": [
+        "Republic of Malta"
+      ],
+      "capital": "Valletta",
+      "major_ports_or_airports": [
+        "Malta Airport",
+        "Valletta Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 106,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-malta/"
+    },
+    {
+      "name": "Marshall Islands",
+      "slug": "marshall-islands",
+      "continent": "oceania",
+      "iso2": "MH",
+      "aliases": [
+        "Republic of the Marshall Islands"
+      ],
+      "capital": "Majuro",
+      "major_ports_or_airports": [
+        "Majuro Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 107,
+      "legacy_path": null
+    },
+    {
+      "name": "Mauritania",
+      "slug": "mauritania",
+      "continent": "africa",
+      "iso2": "MR",
+      "aliases": [
+        "موريتانيا",
+        "Islamic Republic of Mauritania"
+      ],
+      "capital": "Nouakchott",
+      "major_ports_or_airports": [
+        "Nouakchott Airport",
+        "Nouadhibou Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 108,
+      "legacy_path": null
+    },
+    {
+      "name": "Mauritius",
+      "slug": "mauritius",
+      "continent": "africa",
+      "iso2": "MU",
+      "aliases": [
+        "Republic of Mauritius"
+      ],
+      "capital": "Port Louis",
+      "major_ports_or_airports": [
+        "Mauritius Airport",
+        "Port Louis"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 109,
+      "legacy_path": null
+    },
+    {
+      "name": "Mexico",
+      "slug": "mexico",
+      "continent": "north-america",
+      "iso2": "MX",
+      "aliases": [
+        "México",
+        "United Mexican States"
+      ],
+      "capital": "Mexico City",
+      "major_ports_or_airports": [
+        "Mexico City Airport",
+        "Cancún Airport",
+        "Veracruz Port",
+        "Manzanillo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 110,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-mexico/"
+    },
+    {
+      "name": "Micronesia",
+      "slug": "micronesia",
+      "continent": "oceania",
+      "iso2": "FM",
+      "aliases": [
+        "Federated States of Micronesia"
+      ],
+      "capital": "Palikir",
+      "major_ports_or_airports": [
+        "Pohnpei Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 111,
+      "legacy_path": null
+    },
+    {
+      "name": "Moldova",
+      "slug": "moldova",
+      "continent": "europe",
+      "iso2": "MD",
+      "aliases": [
+        "Republic of Moldova"
+      ],
+      "capital": "Chișinău",
+      "major_ports_or_airports": [
+        "Chișinău Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 112,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-moldova/"
+    },
+    {
+      "name": "Monaco",
+      "slug": "monaco",
+      "continent": "europe",
+      "iso2": "MC",
+      "aliases": [
+        "Principality of Monaco"
+      ],
+      "capital": "Monaco",
+      "major_ports_or_airports": [
+        "Monaco Heliport",
+        "Monaco Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 113,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-monaco/"
+    },
+    {
+      "name": "Mongolia",
+      "slug": "mongolia",
+      "continent": "asia",
+      "iso2": "MN",
+      "aliases": [
+        "Монгол Улс"
+      ],
+      "capital": "Ulaanbaatar",
+      "major_ports_or_airports": [
+        "Ulaanbaatar Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 114,
+      "legacy_path": null
+    },
+    {
+      "name": "Montenegro",
+      "slug": "montenegro",
+      "continent": "europe",
+      "iso2": "ME",
+      "aliases": [
+        "Crna Gora"
+      ],
+      "capital": "Podgorica",
+      "major_ports_or_airports": [
+        "Podgorica Airport",
+        "Bar Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 115,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-montenegro/"
+    },
+    {
+      "name": "Morocco",
+      "slug": "morocco",
+      "continent": "africa",
+      "iso2": "MA",
+      "aliases": [
+        "المغرب",
+        "Kingdom of Morocco"
+      ],
+      "capital": "Rabat",
+      "major_ports_or_airports": [
+        "Casablanca Airport",
+        "Casablanca Port",
+        "Tangier Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 116,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-morocco/"
+    },
+    {
+      "name": "Mozambique",
+      "slug": "mozambique",
+      "continent": "africa",
+      "iso2": "MZ",
+      "aliases": [
+        "República de Moçambique"
+      ],
+      "capital": "Maputo",
+      "major_ports_or_airports": [
+        "Maputo Airport",
+        "Maputo Port",
+        "Beira Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 117,
+      "legacy_path": null
+    },
+    {
+      "name": "Myanmar",
+      "slug": "myanmar",
+      "continent": "asia",
+      "iso2": "MM",
+      "aliases": [
+        "Burma",
+        "Republic of the Union of Myanmar"
+      ],
+      "capital": "Naypyidaw",
+      "major_ports_or_airports": [
+        "Yangon Airport",
+        "Yangon Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Political restrictions may apply",
+      "priority": 118,
+      "legacy_path": null
+    },
+    {
+      "name": "Namibia",
+      "slug": "namibia",
+      "continent": "africa",
+      "iso2": "NA",
+      "aliases": [
+        "Republic of Namibia"
+      ],
+      "capital": "Windhoek",
+      "major_ports_or_airports": [
+        "Windhoek Airport",
+        "Walvis Bay Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 119,
+      "legacy_path": null
+    },
+    {
+      "name": "Nauru",
+      "slug": "nauru",
+      "continent": "oceania",
+      "iso2": "NR",
+      "aliases": [
+        "Republic of Nauru"
+      ],
+      "capital": "Yaren",
+      "major_ports_or_airports": [
+        "Nauru Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 120,
+      "legacy_path": null
+    },
+    {
+      "name": "Nepal",
+      "slug": "nepal",
+      "continent": "asia",
+      "iso2": "NP",
+      "aliases": [
+        "नेपाल",
+        "Federal Democratic Republic of Nepal"
+      ],
+      "capital": "Kathmandu",
+      "major_ports_or_airports": [
+        "Kathmandu Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 121,
+      "legacy_path": null
+    },
+    {
+      "name": "Netherlands",
+      "slug": "netherlands",
+      "continent": "europe",
+      "iso2": "NL",
+      "aliases": [
+        "Nederland",
+        "Holland"
+      ],
+      "capital": "Amsterdam",
+      "major_ports_or_airports": [
+        "Amsterdam Airport",
+        "Rotterdam Port",
+        "Amsterdam Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 122,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-netherland/"
+    },
+    {
+      "name": "New Zealand",
+      "slug": "new-zealand",
+      "continent": "oceania",
+      "iso2": "NZ",
+      "aliases": [
+        "Aotearoa"
+      ],
+      "capital": "Wellington",
+      "major_ports_or_airports": [
+        "Auckland Airport",
+        "Wellington Airport",
+        "Auckland Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Strict biosecurity requirements",
+      "priority": 123,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-new-zealand/"
+    },
+    {
+      "name": "Nicaragua",
+      "slug": "nicaragua",
+      "continent": "north-america",
+      "iso2": "NI",
+      "aliases": [
+        "República de Nicaragua"
+      ],
+      "capital": "Managua",
+      "major_ports_or_airports": [
+        "Managua Airport",
+        "Puerto Corinto"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 124,
+      "legacy_path": null
+    },
+    {
+      "name": "Niger",
+      "slug": "niger",
+      "continent": "africa",
+      "iso2": "NE",
+      "aliases": [
+        "République du Niger"
+      ],
+      "capital": "Niamey",
+      "major_ports_or_airports": [
+        "Niamey Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 125,
+      "legacy_path": null
+    },
+    {
+      "name": "Nigeria",
+      "slug": "nigeria",
+      "continent": "africa",
+      "iso2": "NG",
+      "aliases": [
+        "Federal Republic of Nigeria"
+      ],
+      "capital": "Abuja",
+      "major_ports_or_airports": [
+        "Lagos Airport",
+        "Abuja Airport",
+        "Lagos Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 126,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-nigeria/"
+    },
+    {
+      "name": "North Korea",
+      "slug": "north-korea",
+      "continent": "asia",
+      "iso2": "KP",
+      "aliases": [
+        "Democratic People's Republic of Korea",
+        "DPRK"
+      ],
+      "capital": "Pyongyang",
+      "major_ports_or_airports": [
+        "Pyongyang Airport",
+        "Nampo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions and restrictions apply",
+      "priority": 127,
+      "legacy_path": null
+    },
+    {
+      "name": "North Macedonia",
+      "slug": "north-macedonia",
+      "continent": "europe",
+      "iso2": "MK",
+      "aliases": [
+        "Macedonia",
+        "Republic of North Macedonia"
+      ],
+      "capital": "Skopje",
+      "major_ports_or_airports": [
+        "Skopje Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 128,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-north-macedonia/"
+    },
+    {
+      "name": "Norway",
+      "slug": "norway",
+      "continent": "europe",
+      "iso2": "NO",
+      "aliases": [
+        "Norge",
+        "Kingdom of Norway"
+      ],
+      "capital": "Oslo",
+      "major_ports_or_airports": [
+        "Oslo Airport",
+        "Bergen Airport",
+        "Oslo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 129,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-norway/"
+    },
+    {
+      "name": "Oman",
+      "slug": "oman",
+      "continent": "asia",
+      "iso2": "OM",
+      "aliases": [
+        "عُمان",
+        "Sultanate of Oman"
+      ],
+      "capital": "Muscat",
+      "major_ports_or_airports": [
+        "Muscat Airport",
+        "Muscat Port",
+        "Salalah Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 130,
+      "legacy_path": null
+    },
+    {
+      "name": "Pakistan",
+      "slug": "pakistan",
+      "continent": "asia",
+      "iso2": "PK",
+      "aliases": [
+        "پاکستان",
+        "Islamic Republic of Pakistan"
+      ],
+      "capital": "Islamabad",
+      "major_ports_or_airports": [
+        "Karachi Airport",
+        "Lahore Airport",
+        "Karachi Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 131,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-pakistan/"
+    },
+    {
+      "name": "Palau",
+      "slug": "palau",
+      "continent": "oceania",
+      "iso2": "PW",
+      "aliases": [
+        "Republic of Palau"
+      ],
+      "capital": "Ngerulmud",
+      "major_ports_or_airports": [
+        "Palau Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 132,
+      "legacy_path": null
+    },
+    {
+      "name": "Panama",
+      "slug": "panama",
+      "continent": "north-america",
+      "iso2": "PA",
+      "aliases": [
+        "República de Panamá"
+      ],
+      "capital": "Panama City",
+      "major_ports_or_airports": [
+        "Tocumen Airport",
+        "Colón Port",
+        "Balboa Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 133,
+      "legacy_path": null
+    },
+    {
+      "name": "Papua New Guinea",
+      "slug": "papua-new-guinea",
+      "continent": "oceania",
+      "iso2": "PG",
+      "aliases": [
+        "PNG",
+        "Independent State of Papua New Guinea"
+      ],
+      "capital": "Port Moresby",
+      "major_ports_or_airports": [
+        "Port Moresby Airport",
+        "Port Moresby Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 134,
+      "legacy_path": null
+    },
+    {
+      "name": "Paraguay",
+      "slug": "paraguay",
+      "continent": "south-america",
+      "iso2": "PY",
+      "aliases": [
+        "República del Paraguay"
+      ],
+      "capital": "Asunción",
+      "major_ports_or_airports": [
+        "Asunción Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 135,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-paraguay/"
+    },
+    {
+      "name": "Peru",
+      "slug": "peru",
+      "continent": "south-america",
+      "iso2": "PE",
+      "aliases": [
+        "República del Perú"
+      ],
+      "capital": "Lima",
+      "major_ports_or_airports": [
+        "Lima Airport",
+        "Callao Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 136,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-peru/"
+    },
+    {
+      "name": "Philippines",
+      "slug": "philippines",
+      "continent": "asia",
+      "iso2": "PH",
+      "aliases": [
+        "Pilipinas",
+        "Republic of the Philippines"
+      ],
+      "capital": "Manila",
+      "major_ports_or_airports": [
+        "Manila Airport",
+        "Cebu Airport",
+        "Manila Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 137,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-philippines/"
+    },
+    {
+      "name": "Poland",
+      "slug": "poland",
+      "continent": "europe",
+      "iso2": "PL",
+      "aliases": [
+        "Polska",
+        "Republic of Poland"
+      ],
+      "capital": "Warsaw",
+      "major_ports_or_airports": [
+        "Warsaw Airport",
+        "Kraków Airport",
+        "Gdansk Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 138,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-poland/"
+    },
+    {
+      "name": "Portugal",
+      "slug": "portugal",
+      "continent": "europe",
+      "iso2": "PT",
+      "aliases": [
+        "República Portuguesa"
+      ],
+      "capital": "Lisbon",
+      "major_ports_or_airports": [
+        "Lisbon Airport",
+        "Porto Airport",
+        "Lisbon Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 139,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-portugal/"
+    },
+    {
+      "name": "Qatar",
+      "slug": "qatar",
+      "continent": "asia",
+      "iso2": "QA",
+      "aliases": [
+        "قطر",
+        "State of Qatar"
+      ],
+      "capital": "Doha",
+      "major_ports_or_airports": [
+        "Doha Airport",
+        "Doha Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 140,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-qatar/"
+    },
+    {
+      "name": "Romania",
+      "slug": "romania",
+      "continent": "europe",
+      "iso2": "RO",
+      "aliases": [
+        "România"
+      ],
+      "capital": "Bucharest",
+      "major_ports_or_airports": [
+        "Bucharest Airport",
+        "Constanța Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 141,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-romania/"
+    },
+    {
+      "name": "Russia",
+      "slug": "russia",
+      "continent": "asia",
+      "iso2": "RU",
+      "aliases": [
+        "Россия",
+        "Russian Federation"
+      ],
+      "capital": "Moscow",
+      "major_ports_or_airports": [
+        "Moscow Airport",
+        "St. Petersburg Airport",
+        "St. Petersburg Port",
+        "Vladivostok Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 142,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-russia/"
+    },
+    {
+      "name": "Rwanda",
+      "slug": "rwanda",
+      "continent": "africa",
+      "iso2": "RW",
+      "aliases": [
+        "Republic of Rwanda"
+      ],
+      "capital": "Kigali",
+      "major_ports_or_airports": [
+        "Kigali Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 143,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-rwanda/"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "slug": "saint-kitts-and-nevis",
+      "continent": "north-america",
+      "iso2": "KN",
+      "aliases": [
+        "Federation of Saint Christopher and Nevis"
+      ],
+      "capital": "Basseterre",
+      "major_ports_or_airports": [
+        "Robert L. Bradshaw Airport",
+        "Basseterre Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 144,
+      "legacy_path": null
+    },
+    {
+      "name": "Saint Lucia",
+      "slug": "saint-lucia",
+      "continent": "north-america",
+      "iso2": "LC",
+      "aliases": [],
+      "capital": "Castries",
+      "major_ports_or_airports": [
+        "Hewanorra Airport",
+        "Castries Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 145,
+      "legacy_path": null
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "slug": "saint-vincent-and-the-grenadines",
+      "continent": "north-america",
+      "iso2": "VC",
+      "aliases": [
+        "Saint Vincent"
+      ],
+      "capital": "Kingstown",
+      "major_ports_or_airports": [
+        "Argyle Airport",
+        "Kingstown Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 146,
+      "legacy_path": null
+    },
+    {
+      "name": "Samoa",
+      "slug": "samoa",
+      "continent": "oceania",
+      "iso2": "WS",
+      "aliases": [
+        "Independent State of Samoa"
+      ],
+      "capital": "Apia",
+      "major_ports_or_airports": [
+        "Apia Airport",
+        "Apia Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 147,
+      "legacy_path": null
+    },
+    {
+      "name": "San Marino",
+      "slug": "san-marino",
+      "continent": "europe",
+      "iso2": "SM",
+      "aliases": [
+        "Republic of San Marino"
+      ],
+      "capital": "San Marino",
+      "major_ports_or_airports": [],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country, services via Italy",
+      "priority": 148,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-san-marino/"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "slug": "sao-tome-and-principe",
+      "continent": "africa",
+      "iso2": "ST",
+      "aliases": [
+        "São Tomé and Príncipe"
+      ],
+      "capital": "São Tomé",
+      "major_ports_or_airports": [
+        "São Tomé Airport",
+        "São Tomé Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 149,
+      "legacy_path": null
+    },
+    {
+      "name": "Saudi Arabia",
+      "slug": "saudi-arabia",
+      "continent": "asia",
+      "iso2": "SA",
+      "aliases": [
+        "المملكة العربية السعودية",
+        "Kingdom of Saudi Arabia"
+      ],
+      "capital": "Riyadh",
+      "major_ports_or_airports": [
+        "Riyadh Airport",
+        "Jeddah Airport",
+        "Jeddah Port",
+        "Dammam Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 150,
+      "legacy_path": "https:/www.sino-shipping.com/freight-from-china-to-saudi-arabia/"
+    },
+    {
+      "name": "Senegal",
+      "slug": "senegal",
+      "continent": "africa",
+      "iso2": "SN",
+      "aliases": [
+        "République du Sénégal"
+      ],
+      "capital": "Dakar",
+      "major_ports_or_airports": [
+        "Dakar Airport",
+        "Dakar Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 151,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-senegal/"
+    },
+    {
+      "name": "Serbia",
+      "slug": "serbia",
+      "continent": "europe",
+      "iso2": "RS",
+      "aliases": [
+        "Србија",
+        "Republic of Serbia"
+      ],
+      "capital": "Belgrade",
+      "major_ports_or_airports": [
+        "Belgrade Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 152,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-serbia/"
+    },
+    {
+      "name": "Seychelles",
+      "slug": "seychelles",
+      "continent": "africa",
+      "iso2": "SC",
+      "aliases": [
+        "Republic of Seychelles"
+      ],
+      "capital": "Victoria",
+      "major_ports_or_airports": [
+        "Seychelles Airport",
+        "Victoria Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 153,
+      "legacy_path": null
+    },
+    {
+      "name": "Sierra Leone",
+      "slug": "sierra-leone",
+      "continent": "africa",
+      "iso2": "SL",
+      "aliases": [
+        "Republic of Sierra Leone"
+      ],
+      "capital": "Freetown",
+      "major_ports_or_airports": [
+        "Freetown Airport",
+        "Freetown Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 154,
+      "legacy_path": null
+    },
+    {
+      "name": "Singapore",
+      "slug": "singapore",
+      "continent": "asia",
+      "iso2": "SG",
+      "aliases": [
+        "Republic of Singapore"
+      ],
+      "capital": "Singapore",
+      "major_ports_or_airports": [
+        "Changi Airport",
+        "Singapore Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 155,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-to-singapore/"
+    },
+    {
+      "name": "Slovakia",
+      "slug": "slovakia",
+      "continent": "europe",
+      "iso2": "SK",
+      "aliases": [
+        "Slovak Republic",
+        "Slovensko"
+      ],
+      "capital": "Bratislava",
+      "major_ports_or_airports": [
+        "Bratislava Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state, landlocked",
+      "priority": 156,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-slovakia/"
+    },
+    {
+      "name": "Slovenia",
+      "slug": "slovenia",
+      "continent": "europe",
+      "iso2": "SI",
+      "aliases": [
+        "Slovenija",
+        "Republic of Slovenia"
+      ],
+      "capital": "Ljubljana",
+      "major_ports_or_airports": [
+        "Ljubljana Airport",
+        "Koper Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 157,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-slovenia/"
+    },
+    {
+      "name": "Solomon Islands",
+      "slug": "solomon-islands",
+      "continent": "oceania",
+      "iso2": "SB",
+      "aliases": [],
+      "capital": "Honiara",
+      "major_ports_or_airports": [
+        "Honiara Airport",
+        "Honiara Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 158,
+      "legacy_path": null
+    },
+    {
+      "name": "Somalia",
+      "slug": "somalia",
+      "continent": "africa",
+      "iso2": "SO",
+      "aliases": [
+        "الصومال",
+        "Federal Republic of Somalia"
+      ],
+      "capital": "Mogadishu",
+      "major_ports_or_airports": [
+        "Mogadishu Airport",
+        "Mogadishu Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Security restrictions may apply",
+      "priority": 159,
+      "legacy_path": null
+    },
+    {
+      "name": "South Africa",
+      "slug": "south-africa",
+      "continent": "africa",
+      "iso2": "ZA",
+      "aliases": [
+        "Republic of South Africa"
+      ],
+      "capital": "Cape Town",
+      "major_ports_or_airports": [
+        "Johannesburg Airport",
+        "Cape Town Airport",
+        "Durban Port",
+        "Cape Town Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 160,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-south-africa/"
+    },
+    {
+      "name": "South Korea",
+      "slug": "south-korea",
+      "continent": "asia",
+      "iso2": "KR",
+      "aliases": [
+        "Republic of Korea",
+        "대한민국"
+      ],
+      "capital": "Seoul",
+      "major_ports_or_airports": [
+        "Incheon Airport",
+        "Busan Port",
+        "Incheon Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 161,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-korea/"
+    },
+    {
+      "name": "South Sudan",
+      "slug": "south-sudan",
+      "continent": "africa",
+      "iso2": "SS",
+      "aliases": [
+        "Republic of South Sudan"
+      ],
+      "capital": "Juba",
+      "major_ports_or_airports": [
+        "Juba Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 162,
+      "legacy_path": null
+    },
+    {
+      "name": "Spain",
+      "slug": "spain",
+      "continent": "europe",
+      "iso2": "ES",
+      "aliases": [
+        "España",
+        "Kingdom of Spain"
+      ],
+      "capital": "Madrid",
+      "major_ports_or_airports": [
+        "Madrid Airport",
+        "Barcelona Airport",
+        "Barcelona Port",
+        "Valencia Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 163,
+      "legacy_path": "https:/www.sino-shipping.com/freight-spain-china/"
+    },
+    {
+      "name": "Sri Lanka",
+      "slug": "sri-lanka",
+      "continent": "asia",
+      "iso2": "LK",
+      "aliases": [
+        "Ceylon",
+        "ශ්‍රී ලංකා"
+      ],
+      "capital": "Sri Jayawardenepura Kotte",
+      "major_ports_or_airports": [
+        "Colombo Airport",
+        "Colombo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 164,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/shipping-from-china-to-sri-lanka/"
+    },
+    {
+      "name": "Sudan",
+      "slug": "sudan",
+      "continent": "africa",
+      "iso2": "SD",
+      "aliases": [
+        "السودان",
+        "Republic of the Sudan"
+      ],
+      "capital": "Khartoum",
+      "major_ports_or_airports": [
+        "Khartoum Airport",
+        "Port Sudan"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 165,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-sudan/"
+    },
+    {
+      "name": "Suriname",
+      "slug": "suriname",
+      "continent": "south-america",
+      "iso2": "SR",
+      "aliases": [
+        "Republic of Suriname"
+      ],
+      "capital": "Paramaribo",
+      "major_ports_or_airports": [
+        "Paramaribo Airport",
+        "Paramaribo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 166,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-suriname/"
+    },
+    {
+      "name": "Sweden",
+      "slug": "sweden",
+      "continent": "europe",
+      "iso2": "SE",
+      "aliases": [
+        "Sverige",
+        "Kingdom of Sweden"
+      ],
+      "capital": "Stockholm",
+      "major_ports_or_airports": [
+        "Stockholm Airport",
+        "Gothenburg Airport",
+        "Stockholm Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "EU member state",
+      "priority": 167,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-sweden/"
+    },
+    {
+      "name": "Switzerland",
+      "slug": "switzerland",
+      "continent": "europe",
+      "iso2": "CH",
+      "aliases": [
+        "Schweiz",
+        "Suisse",
+        "Svizzera"
+      ],
+      "capital": "Bern",
+      "major_ports_or_airports": [
+        "Zurich Airport",
+        "Geneva Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 168,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-switzerland/"
+    },
+    {
+      "name": "Syria",
+      "slug": "syria",
+      "continent": "asia",
+      "iso2": "SY",
+      "aliases": [
+        "سوريا",
+        "Syrian Arab Republic"
+      ],
+      "capital": "Damascus",
+      "major_ports_or_airports": [
+        "Damascus Airport",
+        "Lattakia Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 169,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-syria/"
+    },
+    {
+      "name": "Taiwan",
+      "slug": "taiwan",
+      "continent": "asia",
+      "iso2": "TW",
+      "aliases": [
+        "Republic of China",
+        "中華民國",
+        "Formosa"
+      ],
+      "capital": "Taipei",
+      "major_ports_or_airports": [
+        "Taoyuan Airport",
+        "Kaohsiung Port",
+        "Taichung Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 170,
+      "legacy_path": null
+    },
+    {
+      "name": "Tajikistan",
+      "slug": "tajikistan",
+      "continent": "asia",
+      "iso2": "TJ",
+      "aliases": [
+        "Тоҷикистон",
+        "Republic of Tajikistan"
+      ],
+      "capital": "Dushanbe",
+      "major_ports_or_airports": [
+        "Dushanbe Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 171,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-tajikistan/"
+    },
+    {
+      "name": "Tanzania",
+      "slug": "tanzania",
+      "continent": "africa",
+      "iso2": "TZ",
+      "aliases": [
+        "United Republic of Tanzania"
+      ],
+      "capital": "Dodoma",
+      "major_ports_or_airports": [
+        "Dar es Salaam Airport",
+        "Dar es Salaam Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 172,
+      "legacy_path": null
+    },
+    {
+      "name": "Thailand",
+      "slug": "thailand",
+      "continent": "asia",
+      "iso2": "TH",
+      "aliases": [
+        "ประเทศไทย",
+        "Kingdom of Thailand"
+      ],
+      "capital": "Bangkok",
+      "major_ports_or_airports": [
+        "Bangkok Airport",
+        "Phuket Airport",
+        "Bangkok Port",
+        "Laem Chabang Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 173,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-thailand/"
+    },
+    {
+      "name": "Timor-Leste",
+      "slug": "timor-leste",
+      "continent": "asia",
+      "iso2": "TL",
+      "aliases": [
+        "East Timor"
+      ],
+      "capital": "Dili",
+      "major_ports_or_airports": [
+        "Dili Airport",
+        "Dili Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 174,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-timor-leste/"
+    },
+    {
+      "name": "Togo",
+      "slug": "togo",
+      "continent": "africa",
+      "iso2": "TG",
+      "aliases": [
+        "Togolese Republic"
+      ],
+      "capital": "Lomé",
+      "major_ports_or_airports": [
+        "Lomé Airport",
+        "Lomé Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 175,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-togo/"
+    },
+    {
+      "name": "Tonga",
+      "slug": "tonga",
+      "continent": "oceania",
+      "iso2": "TO",
+      "aliases": [
+        "Kingdom of Tonga"
+      ],
+      "capital": "Nuku'alofa",
+      "major_ports_or_airports": [
+        "Tonga Airport",
+        "Nuku'alofa Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 176,
+      "legacy_path": null
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "slug": "trinidad-and-tobago",
+      "continent": "north-america",
+      "iso2": "TT",
+      "aliases": [
+        "Republic of Trinidad and Tobago"
+      ],
+      "capital": "Port of Spain",
+      "major_ports_or_airports": [
+        "Trinidad Airport",
+        "Port of Spain"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 177,
+      "legacy_path": null
+    },
+    {
+      "name": "Tunisia",
+      "slug": "tunisia",
+      "continent": "africa",
+      "iso2": "TN",
+      "aliases": [
+        "تونس",
+        "Republic of Tunisia"
+      ],
+      "capital": "Tunis",
+      "major_ports_or_airports": [
+        "Tunis Airport",
+        "Tunis Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 178,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-tunisia/"
+    },
+    {
+      "name": "Turkey",
+      "slug": "turkey",
+      "continent": "asia",
+      "iso2": "TR",
+      "aliases": [
+        "Türkiye",
+        "Republic of Turkey"
+      ],
+      "capital": "Ankara",
+      "major_ports_or_airports": [
+        "Istanbul Airport",
+        "Ankara Airport",
+        "Istanbul Port",
+        "Izmir Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 179,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-turkey/"
+    },
+    {
+      "name": "Turkmenistan",
+      "slug": "turkmenistan",
+      "continent": "asia",
+      "iso2": "TM",
+      "aliases": [
+        "Türkmenistan"
+      ],
+      "capital": "Ashgabat",
+      "major_ports_or_airports": [
+        "Ashgabat Airport",
+        "Turkmenbashi Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 180,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-turkmenistan/"
+    },
+    {
+      "name": "Tuvalu",
+      "slug": "tuvalu",
+      "continent": "oceania",
+      "iso2": "TV",
+      "aliases": [],
+      "capital": "Funafuti",
+      "major_ports_or_airports": [
+        "Funafuti Airport"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 181,
+      "legacy_path": null
+    },
+    {
+      "name": "Uganda",
+      "slug": "uganda",
+      "continent": "africa",
+      "iso2": "UG",
+      "aliases": [
+        "Republic of Uganda"
+      ],
+      "capital": "Kampala",
+      "major_ports_or_airports": [
+        "Entebbe Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 182,
+      "legacy_path": null
+    },
+    {
+      "name": "Ukraine",
+      "slug": "ukraine",
+      "continent": "europe",
+      "iso2": "UA",
+      "aliases": [
+        "Україна"
+      ],
+      "capital": "Kyiv",
+      "major_ports_or_airports": [
+        "Kyiv Airport",
+        "Odesa Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "War restrictions may apply",
+      "priority": 183,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-ukraine/"
+    },
+    {
+      "name": "United Arab Emirates",
+      "slug": "united-arab-emirates",
+      "continent": "asia",
+      "iso2": "AE",
+      "aliases": [
+        "UAE",
+        "الإمارات العربية المتحدة"
+      ],
+      "capital": "Abu Dhabi",
+      "major_ports_or_airports": [
+        "Dubai Airport",
+        "Abu Dhabi Airport",
+        "Dubai Port",
+        "Abu Dhabi Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 184,
+      "legacy_path": null
+    },
+    {
+      "name": "United Kingdom",
+      "slug": "united-kingdom",
+      "continent": "europe",
+      "iso2": "GB",
+      "aliases": [
+        "UK",
+        "Britain",
+        "Great Britain"
+      ],
+      "capital": "London",
+      "major_ports_or_airports": [
+        "Heathrow Airport",
+        "Manchester Airport",
+        "London Port",
+        "Southampton Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 185,
+      "legacy_path": null
+    },
+    {
+      "name": "United States",
+      "slug": "united-states",
+      "continent": "north-america",
+      "iso2": "US",
+      "aliases": [
+        "USA",
+        "America",
+        "United States of America"
+      ],
+      "capital": "Washington, D.C.",
+      "major_ports_or_airports": [
+        "JFK Airport",
+        "LAX Airport",
+        "New York Port",
+        "Los Angeles Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 186,
+      "legacy_path": null
+    },
+    {
+      "name": "Uruguay",
+      "slug": "uruguay",
+      "continent": "south-america",
+      "iso2": "UY",
+      "aliases": [
+        "República Oriental del Uruguay"
+      ],
+      "capital": "Montevideo",
+      "major_ports_or_airports": [
+        "Montevideo Airport",
+        "Montevideo Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 187,
+      "legacy_path": "https:/www.sino-shipping.com/freight-china-uruguay/"
+    },
+    {
+      "name": "Uzbekistan",
+      "slug": "uzbekistan",
+      "continent": "asia",
+      "iso2": "UZ",
+      "aliases": [
+        "Ўзбекистон",
+        "Republic of Uzbekistan"
+      ],
+      "capital": "Tashkent",
+      "major_ports_or_airports": [
+        "Tashkent Airport"
+      ],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 188,
+      "legacy_path": "https:/www.sino-shipping.com/freight-shipping-from-china-to-uzbekistan/"
+    },
+    {
+      "name": "Vanuatu",
+      "slug": "vanuatu",
+      "continent": "oceania",
+      "iso2": "VU",
+      "aliases": [
+        "Republic of Vanuatu"
+      ],
+      "capital": "Port Vila",
+      "major_ports_or_airports": [
+        "Port Vila Airport",
+        "Port Vila Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 189,
+      "legacy_path": null
+    },
+    {
+      "name": "Vatican City",
+      "slug": "vatican-city",
+      "continent": "europe",
+      "iso2": "VA",
+      "aliases": [
+        "Holy See",
+        "Vatican"
+      ],
+      "capital": "Vatican City",
+      "major_ports_or_airports": [],
+      "modes": [
+        "Air",
+        "Rail",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Services via Italy",
+      "priority": 190,
+      "legacy_path": null
+    },
+    {
+      "name": "Venezuela",
+      "slug": "venezuela",
+      "continent": "south-america",
+      "iso2": "VE",
+      "aliases": [
+        "República Bolivariana de Venezuela"
+      ],
+      "capital": "Caracas",
+      "major_ports_or_airports": [
+        "Caracas Airport",
+        "La Guaira Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Sanctions may apply",
+      "priority": 191,
+      "legacy_path": "https:/www.sino-shipping.com/shipping-from-china-to-venezuela/"
+    },
+    {
+      "name": "Vietnam",
+      "slug": "vietnam",
+      "continent": "asia",
+      "iso2": "VN",
+      "aliases": [
+        "Việt Nam",
+        "Socialist Republic of Vietnam"
+      ],
+      "capital": "Hanoi",
+      "major_ports_or_airports": [
+        "Hanoi Airport",
+        "Ho Chi Minh Airport",
+        "Ho Chi Minh Port",
+        "Haiphong Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": null,
+      "priority": 192,
+      "legacy_path": "https:/www.sino-shipping.com/country-guides/freight-from-china-to-vietnam/"
+    },
+    {
+      "name": "Yemen",
+      "slug": "yemen",
+      "continent": "asia",
+      "iso2": "YE",
+      "aliases": [
+        "اليمن",
+        "Republic of Yemen"
+      ],
+      "capital": "Sana'a",
+      "major_ports_or_airports": [
+        "Sana'a Airport",
+        "Aden Port"
+      ],
+      "modes": [
+        "Air",
+        "Sea",
+        "DDP"
+      ],
+      "restricted": true,
+      "compliance_note": "Security restrictions may apply",
+      "priority": 193,
+      "legacy_path": null
+    },
+    {
+      "name": "Zambia",
+      "slug": "zambia",
+      "continent": "africa",
+      "iso2": "ZM",
+      "aliases": [
+        "Republic of Zambia"
+      ],
+      "capital": "Lusaka",
+      "major_ports_or_airports": [
+        "Lusaka Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 194,
+      "legacy_path": null
+    },
+    {
+      "name": "Zimbabwe",
+      "slug": "zimbabwe",
+      "continent": "africa",
+      "iso2": "ZW",
+      "aliases": [
+        "Republic of Zimbabwe"
+      ],
+      "capital": "Harare",
+      "major_ports_or_airports": [
+        "Harare Airport"
+      ],
+      "modes": [
+        "Air",
+        "DDP"
+      ],
+      "restricted": false,
+      "compliance_note": "Landlocked country",
+      "priority": 195,
+      "legacy_path": null
+    }
+  ]
+}
