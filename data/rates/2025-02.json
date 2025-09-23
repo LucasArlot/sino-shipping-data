@@ -2943,14 +2943,14 @@
     },
     "japan": {
       "sea_20gp_usd": [
-        816,
-        1229
+        340,
+        510
       ],
       "sea_40gp_usd": [
-        1536,
-        2256
+        640,
+        960
       ],
-      "air_perkg_usd_1000kg": 7.2,
+      "air_perkg_usd_1000kg": 2.4,
       "rail_lcl_usd_cbm": null,
       "transit_days": {
         "sea": [
@@ -2971,7 +2971,7 @@
           14
         ]
       },
-      "sea_lcl_usd_cbm": 91,
+      "sea_lcl_usd_cbm": 14,
       "express_perkg_usd": 9.5
     },
     "jordan": {

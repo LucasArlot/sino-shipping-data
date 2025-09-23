@@ -2943,36 +2943,36 @@
     },
     "japan": {
       "sea_20gp_usd": [
-        99850,
-        991280
+        240,
+        360
       ],
       "sea_40gp_usd": [
-        991600,
-        992350
+        360,
+        540
       ],
-      "air_perkg_usd_1000kg": 997.45,
+      "air_perkg_usd_1000kg": 1.5,
       "rail_lcl_usd_cbm": null,
       "transit_days": {
         "sea": [
-          999,
-          9910
+          9,
+          10
         ],
         "air": [
-         992,
-          993
+          2,
+          3
         ],
         "rail": null,
         "express": [
-          992,
-          994
+          2,
+          4
         ],
         "lcl": [
-          9910,
-          9914
+          10,
+          14
         ]
       },
-      "sea_lcl_usd_cbm": 9995,
-      "express_perkg_usd": 999.9
+      "sea_lcl_usd_cbm": 10,
+      "express_perkg_usd": 9.9
     },
     "jordan": {
       "sea_20gp_usd": [
