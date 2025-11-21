@@ -12,6 +12,41 @@
       "railAvailable": 5
     }
   },
+  "_reference": {
+    "_comment": "Documentation pour market_snapshot - Options disponibles pour remplir le JSON",
+    "market_snapshot": {
+      "available_icons": {
+        "airplane": "✈️ Air capacity, air freight",
+        "truck": "🚚 Express networks, courier",
+        "container": "📦 Ocean space, FCL/LCL",
+        "calendar": "📅 Planning, deadlines, cut-offs",
+        "cloud": "⛈️ Weather, typhoon season",
+        "clock": "🕐 Transit times, delays",
+        "alert": "⚠️ Warnings, important notices",
+        "chart": "📊 Market trends, data",
+        "info": "ℹ️ General information"
+      },
+      "available_statuses": {
+        "stable": "🟢 Badge 'Stable' (vert) - Capacité stable, conditions normales",
+        "normal": "🔵 Badge 'Normally' (bleu) - Fonctionnement normal",
+        "tighter": "🟠 Badge 'Tighter' (orange) - Espace réduit, réservations plus difficiles",
+        "warning": "🔴 Badge 'Warning' (rouge) - Attention requise, perturbations possibles"
+      },
+      "structure": {
+        "items": "Array flexible de 3-5 points (peut varier selon le mois et les événements)",
+        "label": "Titre du point (ex: 'Air capacity', 'Express networks', 'Q4 planning')",
+        "icon": "Nom de l'icône (voir available_icons ci-dessus)",
+        "status": "Statut (voir available_statuses ci-dessus)",
+        "text": "Description du point (court et actionnable, max 150 caractères recommandé)"
+      },
+      "notes": [
+        "Structure flexible: le nombre d'items peut varier (généralement 3-5)",
+        "Les points peuvent changer chaque mois selon les événements (ex: typhoon en été, Q4 planning en novembre)",
+        "Ordre recommandé: points les plus importants en premier",
+        "Adapter le contenu selon les conditions réelles du marché pour chaque mois"
+      ]
+    }
+  },
   "rates": {
     "afghanistan": {
       "sea_20gp_usd": null,
@@ -2596,22 +2631,32 @@
       "sea_lcl_usd_cbm": 13,
       "express_perkg_usd": 12.2,
       "market_snapshot": {
-        "air_capacity": {
-          "status": "stable",
-          "text": "on key lanes (Shanghai PVG ⇄ Tokyo NRT/HND, Hong Kong HKG ⇄ Tokyo HND) — book by Thursday for Monday departures"
-        },
-        "express_networks": {
-          "status": "normal",
-          "text": "— no major delays reported"
-        },
-        "ocean_space": {
-          "status": "tighter",
-          "text": "from East China ports on select weeks — peak-season blank sailings may require 2-3 week advance booking"
-        },
-        "typhoon_season": {
-          "status": "warning",
-          "text": "(June–October) may cause 1-2 day port/airport disruptions — add buffer for time-sensitive shipments"
-        }
+        "items": [
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "stable",
+            "text": "on key lanes (Shanghai PVG ⇄ Tokyo NRT/HND, Hong Kong HKG ⇄ Tokyo HND) — book by Thursday for Monday departures"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major delays reported"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "available from East China ports — 20GP flat, 40GP down ~10% vs October; book 2 weeks ahead for peak weeks"
+          },
+          {
+            "label": "Q4 planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "predictable demand patterns — good time to lock in rates for December/January shipments"
+          }
+        ]
       }
     },
     "jordan": {
