@@ -2594,7 +2594,25 @@
         ]
       },
       "sea_lcl_usd_cbm": 13,
-      "express_perkg_usd": 12.2
+      "express_perkg_usd": 12.2,
+      "market_snapshot": {
+        "air_capacity": {
+          "status": "stable",
+          "text": "on key lanes (Shanghai PVG ⇄ Tokyo NRT/HND, Hong Kong HKG ⇄ Tokyo HND) — book by Thursday for Monday departures"
+        },
+        "express_networks": {
+          "status": "normal",
+          "text": "— no major delays reported"
+        },
+        "ocean_space": {
+          "status": "tighter",
+          "text": "from East China ports on select weeks — peak-season blank sailings may require 2-3 week advance booking"
+        },
+        "typhoon_season": {
+          "status": "warning",
+          "text": "(June–October) may cause 1-2 day port/airport disruptions — add buffer for time-sensitive shipments"
+        }
+      }
     },
     "jordan": {
       "sea_20gp_usd": null,
