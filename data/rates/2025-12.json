@@ -3260,13 +3260,13 @@
             "label": "Ocean space",
             "icon": "container",
             "status": "stable",
-            "text": "available from East China ports — 20GP flat, 40GP down ~10% vs October; book 2 weeks ahead for peak weeks"
+            "text": "available from East China ports — rates stable; book early for January shipments to avoid holiday rush"
           },
           {
-            "label": "Q4 planning",
+            "label": "Year-end planning",
             "icon": "calendar",
             "status": "normal",
-            "text": "predictable demand patterns — good time to lock in rates for December/January shipments"
+            "text": "December shipments on track — secure January slots now as Chinese New Year approaches (late January 2026)"
           }
         ]
       },
