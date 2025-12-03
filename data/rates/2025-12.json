@@ -3245,28 +3245,28 @@
       "market_snapshot": {
         "items": [
           {
-            "label": "Air capacity",
-            "icon": "airplane",
-            "status": "stable",
-            "text": "on key lanes (Shanghai PVG ⇄ Tokyo NRT/HND, Hong Kong HKG ⇄ Tokyo HND) — book by Thursday for Monday departures"
-          },
-          {
-            "label": "Express networks",
-            "icon": "truck",
-            "status": "normal",
-            "text": "operating normally — no major delays reported"
-          },
-          {
-            "label": "Ocean space",
-            "icon": "container",
-            "status": "stable",
-            "text": "available from East China ports — rates stable; book early for January shipments to avoid holiday rush"
-          },
-          {
-            "label": "Year-end planning",
+            "label": "Year-end deadlines",
             "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday cut-offs approaching — book express by Dec 20 for Dec 25 delivery; sea shipments need Dec 10 cutoff"
+          },
+          {
+            "label": "Air freight rates",
+            "icon": "chart",
             "status": "normal",
-            "text": "December shipments on track — secure January slots now as Chinese New Year approaches (late January 2026)"
+            "text": "rates remain competitive at $1.3/kg — favorable conditions for air shipments this month"
+          },
+          {
+            "label": "Express holiday rush",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased demand for express services — book early for guaranteed pre-holiday delivery"
+          },
+          {
+            "label": "Winter transit times",
+            "icon": "clock",
+            "status": "normal",
+            "text": "no weather disruptions expected — standard transit times maintained (sea 9-10 days, air 2-3 days)"
           }
         ]
       },
