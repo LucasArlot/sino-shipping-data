@@ -84,7 +84,29 @@
       "sea_lcl_usd_cbm": 53,
       "express_perkg_usd": 7.84,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "albania": {
       "sea_20gp_usd": [
@@ -122,7 +144,29 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "algeria": {
       "sea_20gp_usd": [
@@ -157,7 +201,29 @@
       "sea_lcl_usd_cbm": 290,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "andorra": {
       "sea_20gp_usd": [
@@ -195,7 +261,29 @@
       "sea_lcl_usd_cbm": 73,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "angola": {
       "sea_20gp_usd": [
@@ -230,7 +318,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "antigua-and-barbuda": {
       "sea_20gp_usd": [
@@ -268,7 +378,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "argentina": {
       "sea_20gp_usd": [
@@ -303,7 +435,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 14.72,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "armenia": {
       "sea_20gp_usd": [
@@ -341,7 +495,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "australia": {
       "sea_20gp_usd": [
@@ -376,7 +552,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 6.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates competitive for December"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — book 3-4 weeks ahead for peak periods"
+          },
+          {
+            "label": "Transit times",
+            "icon": "clock",
+            "status": "normal",
+            "text": "standard transit times maintained — no weather disruptions expected"
+          }
+        ]
+      }
     },
     "austria": {
       "sea_20gp_usd": [
@@ -420,7 +624,35 @@
       "rail_40gp_usd": [
         6048,
         7392
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "azerbaijan": {
       "sea_20gp_usd": [
@@ -458,7 +690,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "bahamas": {
       "sea_20gp_usd": [
@@ -496,7 +750,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "bahrain": {
       "sea_20gp_usd": [
@@ -534,7 +810,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "bangladesh": {
       "sea_20gp_usd": [
@@ -572,7 +876,29 @@
       "sea_lcl_usd_cbm": 72,
       "express_perkg_usd": 7.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "barbados": {
       "sea_20gp_usd": [
@@ -610,7 +936,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "belarus": {
       "sea_20gp_usd": [
@@ -654,7 +1002,29 @@
       "rail_40gp_usd": [
         4608,
         5632
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "belgium": {
       "sea_20gp_usd": [
@@ -698,7 +1068,35 @@
       "rail_40gp_usd": [
         5875,
         7180
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "belize": {
       "sea_20gp_usd": [
@@ -736,7 +1134,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "benin": {
       "sea_20gp_usd": [
@@ -771,7 +1191,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "bhutan": {
       "sea_20gp_usd": [
@@ -809,7 +1251,29 @@
       "sea_lcl_usd_cbm": 53,
       "express_perkg_usd": 7.84,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "bolivia": {
       "sea_20gp_usd": [
@@ -844,7 +1308,35 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          },
+          {
+            "label": "Transit planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "plan for additional transit time through neighboring ports"
+          }
+        ]
+      }
     },
     "bosnia-and-herzegovina": {
       "sea_20gp_usd": [
@@ -882,7 +1374,29 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "botswana": {
       "sea_20gp_usd": [
@@ -917,7 +1431,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "brazil": {
       "sea_20gp_usd": [
@@ -952,7 +1488,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 14.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "brunei": {
       "sea_20gp_usd": [
@@ -990,7 +1548,35 @@
       "sea_lcl_usd_cbm": 29,
       "express_perkg_usd": 2.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "bulgaria": {
       "sea_20gp_usd": [
@@ -1034,7 +1620,35 @@
       "rail_40gp_usd": [
         6623,
         8095
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "burkina-faso": {
       "sea_20gp_usd": [
@@ -1069,7 +1683,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "burundi": {
       "sea_20gp_usd": [
@@ -1104,7 +1740,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "cabo-verde": {
       "sea_20gp_usd": [
@@ -1142,7 +1800,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "cambodia": {
       "sea_20gp_usd": [
@@ -1180,7 +1860,35 @@
       "sea_lcl_usd_cbm": 29,
       "express_perkg_usd": 2.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "cameroon": {
       "sea_20gp_usd": [
@@ -1215,7 +1923,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "canada": {
       "sea_20gp_usd": [
@@ -1250,7 +1980,35 @@
       "sea_lcl_usd_cbm": 180,
       "express_perkg_usd": 9.12,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday peak season — book early for December departures"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available on major routes — West Coast ports operating normally"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "holiday rush affecting express networks — book early for guaranteed delivery"
+          }
+        ]
+      }
     },
     "central-african-republic": {
       "sea_20gp_usd": [
@@ -1285,7 +2043,29 @@
       "sea_lcl_usd_cbm": 163,
       "express_perkg_usd": 13.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "chad": {
       "sea_20gp_usd": [
@@ -1320,7 +2100,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "chile": {
       "sea_20gp_usd": [
@@ -1355,7 +2157,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "china": {
       "sea_20gp_usd": [
@@ -1393,7 +2217,35 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "stable capacity on major routes — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from China ports — book 2 weeks ahead for peak periods"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — standard transit times maintained"
+          }
+        ]
+      }
     },
     "colombia": {
       "sea_20gp_usd": [
@@ -1428,7 +2280,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 14.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "comoros": {
       "sea_20gp_usd": [
@@ -1463,7 +2337,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "congo": {
       "sea_20gp_usd": [
@@ -1498,7 +2394,29 @@
       "sea_lcl_usd_cbm": 163,
       "express_perkg_usd": 13.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "costa-rica": {
       "sea_20gp_usd": [
@@ -1536,7 +2454,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "croatia": {
       "sea_20gp_usd": [
@@ -1574,7 +2514,35 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "cuba": {
       "sea_20gp_usd": [
@@ -1612,7 +2580,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "cyprus": {
       "sea_20gp_usd": [
@@ -1650,7 +2640,35 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "czech-republic": {
       "sea_20gp_usd": [
@@ -1694,7 +2712,35 @@
       "rail_40gp_usd": [
         5875,
         7180
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "democratic-republic-of-the-congo": {
       "sea_20gp_usd": [
@@ -1732,7 +2778,29 @@
       "sea_lcl_usd_cbm": 720,
       "express_perkg_usd": 13.6,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "denmark": {
       "sea_20gp_usd": [
@@ -1776,7 +2844,35 @@
       "rail_40gp_usd": [
         6048,
         7392
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "djibouti": {
       "sea_20gp_usd": [
@@ -1811,7 +2907,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "dominica": {
       "sea_20gp_usd": [
@@ -1849,7 +2967,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "dominican-republic": {
       "sea_20gp_usd": [
@@ -1887,7 +3027,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "ecuador": {
       "sea_20gp_usd": [
@@ -1922,7 +3084,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 14.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "egypt": {
       "sea_20gp_usd": [
@@ -1957,7 +3141,29 @@
       "sea_lcl_usd_cbm": 105,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "el-salvador": {
       "sea_20gp_usd": [
@@ -1995,7 +3201,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "equatorial-guinea": {
       "sea_20gp_usd": [
@@ -2030,7 +3258,29 @@
       "sea_lcl_usd_cbm": 163,
       "express_perkg_usd": 13.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "eritrea": {
       "sea_20gp_usd": [
@@ -2065,7 +3315,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "estonia": {
       "sea_20gp_usd": [
@@ -2103,7 +3375,35 @@
       "sea_lcl_usd_cbm": 85,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "eswatini": {
       "sea_20gp_usd": [
@@ -2138,7 +3438,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "ethiopia": {
       "sea_20gp_usd": [
@@ -2173,7 +3495,35 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          },
+          {
+            "label": "Inland transit",
+            "icon": "truck",
+            "status": "normal",
+            "text": "plan for port-to-destination transit — allow extra time for customs"
+          }
+        ]
+      }
     },
     "fiji": {
       "sea_20gp_usd": [
@@ -2211,7 +3561,35 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates competitive for December"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — book 3-4 weeks ahead for peak periods"
+          },
+          {
+            "label": "Transit times",
+            "icon": "clock",
+            "status": "normal",
+            "text": "standard transit times maintained — no weather disruptions expected"
+          }
+        ]
+      }
     },
     "finland": {
       "sea_20gp_usd": [
@@ -2255,7 +3633,35 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "france": {
       "sea_20gp_usd": [
@@ -2299,7 +3705,35 @@
       "rail_40gp_usd": [
         6048,
         7392
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "gabon": {
       "sea_20gp_usd": [
@@ -2334,7 +3768,29 @@
       "sea_lcl_usd_cbm": 163,
       "express_perkg_usd": 13.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "gambia": {
       "sea_20gp_usd": [
@@ -2369,7 +3825,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "georgia": {
       "sea_20gp_usd": [
@@ -2407,7 +3885,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "germany": {
       "sea_20gp_usd": [
@@ -2451,7 +3951,35 @@
       "rail_40gp_usd": [
         5760,
         7040
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "ghana": {
       "sea_20gp_usd": [
@@ -2486,7 +4014,29 @@
       "sea_lcl_usd_cbm": 160,
       "express_perkg_usd": 13.7,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "greece": {
       "sea_20gp_usd": [
@@ -2524,7 +4074,35 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "grenada": {
       "sea_20gp_usd": [
@@ -2562,7 +4140,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "guatemala": {
       "sea_20gp_usd": [
@@ -2600,7 +4200,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "guinea": {
       "sea_20gp_usd": [
@@ -2635,7 +4257,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "guinea-bissau": {
       "sea_20gp_usd": [
@@ -2670,7 +4314,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "guyana": {
       "sea_20gp_usd": [
@@ -2705,7 +4371,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "haiti": {
       "sea_20gp_usd": [
@@ -2743,7 +4431,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "honduras": {
       "sea_20gp_usd": [
@@ -2781,7 +4491,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "hungary": {
       "sea_20gp_usd": [
@@ -2825,7 +4557,35 @@
       "rail_40gp_usd": [
         5875,
         7180
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "iceland": {
       "sea_20gp_usd": [
@@ -2863,7 +4623,29 @@
       "sea_lcl_usd_cbm": 85,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "india": {
       "sea_20gp_usd": [
@@ -2901,7 +4683,29 @@
       "sea_lcl_usd_cbm": 10,
       "express_perkg_usd": 7.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "indonesia": {
       "sea_20gp_usd": [
@@ -2939,7 +4743,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 3.68,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "iran": {
       "sea_20gp_usd": [
@@ -2977,7 +4809,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "iraq": {
       "sea_20gp_usd": [
@@ -3015,7 +4869,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "ireland": {
       "sea_20gp_usd": [
@@ -3053,7 +4935,35 @@
       "sea_lcl_usd_cbm": 65,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "israel": {
       "sea_20gp_usd": [
@@ -3091,7 +5001,35 @@
       "sea_lcl_usd_cbm": 65,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "italy": {
       "sea_20gp_usd": [
@@ -3135,7 +5073,35 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "ivory-coast": {
       "sea_20gp_usd": [
@@ -3170,7 +5136,29 @@
       "sea_lcl_usd_cbm": 265,
       "express_perkg_usd": 14.72,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "jamaica": {
       "sea_20gp_usd": [
@@ -3208,7 +5196,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "japan": {
       "sea_20gp_usd": [
@@ -3309,7 +5319,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "kazakhstan": {
       "sea_20gp_usd": [
@@ -3353,7 +5391,29 @@
       "rail_40gp_usd": [
         4031,
         4928
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "kenya": {
       "sea_20gp_usd": [
@@ -3388,7 +5448,29 @@
       "sea_lcl_usd_cbm": 118,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "kiribati": {
       "sea_20gp_usd": [
@@ -3426,7 +5508,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "kuwait": {
       "sea_20gp_usd": [
@@ -3464,7 +5568,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "kyrgyzstan": {
       "sea_20gp_usd": [
@@ -3508,7 +5640,29 @@
       "rail_40gp_usd": [
         4320,
         5280
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "laos": {
       "sea_20gp_usd": [
@@ -3546,7 +5700,35 @@
       "sea_lcl_usd_cbm": 29,
       "express_perkg_usd": 2.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "latvia": {
       "sea_20gp_usd": [
@@ -3584,7 +5766,35 @@
       "sea_lcl_usd_cbm": 85,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "lebanon": {
       "sea_20gp_usd": [
@@ -3622,7 +5832,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "lesotho": {
       "sea_20gp_usd": [
@@ -3657,7 +5895,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "liberia": {
       "sea_20gp_usd": [
@@ -3692,7 +5952,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "libya": {
       "sea_20gp_usd": [
@@ -3727,7 +6009,29 @@
       "sea_lcl_usd_cbm": 193,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "liechtenstein": {
       "sea_20gp_usd": [
@@ -3765,7 +6069,29 @@
       "sea_lcl_usd_cbm": 73,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "lithuania": {
       "sea_20gp_usd": [
@@ -3803,7 +6129,35 @@
       "sea_lcl_usd_cbm": 85,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "luxembourg": {
       "sea_20gp_usd": [
@@ -3841,7 +6195,35 @@
       "sea_lcl_usd_cbm": 73,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "madagascar": {
       "sea_20gp_usd": [
@@ -3876,7 +6258,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "malawi": {
       "sea_20gp_usd": [
@@ -3914,7 +6318,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "malaysia": {
       "sea_20gp_usd": [
@@ -3952,7 +6378,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 4.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "maldives": {
       "sea_20gp_usd": [
@@ -3990,7 +6444,29 @@
       "sea_lcl_usd_cbm": 53,
       "express_perkg_usd": 7.84,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "mali": {
       "sea_20gp_usd": [
@@ -4025,7 +6501,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "malta": {
       "sea_20gp_usd": [
@@ -4063,7 +6561,35 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "marshall-islands": {
       "sea_20gp_usd": [
@@ -4101,7 +6627,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "mauritania": {
       "sea_20gp_usd": [
@@ -4136,7 +6684,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "mauritius": {
       "sea_20gp_usd": [
@@ -4171,7 +6741,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "mexico": {
       "sea_20gp_usd": [
@@ -4209,7 +6801,35 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday peak season — book early for December departures"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available on major routes — West Coast ports operating normally"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "holiday rush affecting express networks — book early for guaranteed delivery"
+          }
+        ]
+      }
     },
     "micronesia": {
       "sea_20gp_usd": [
@@ -4247,7 +6867,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "moldova": {
       "sea_20gp_usd": [
@@ -4285,7 +6927,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 12.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "monaco": {
       "sea_20gp_usd": [
@@ -4323,7 +6987,29 @@
       "sea_lcl_usd_cbm": 73,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "mongolia": {
       "sea_20gp_usd": [
@@ -4367,7 +7053,29 @@
       "rail_40gp_usd": [
         5184,
         6336
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "montenegro": {
       "sea_20gp_usd": [
@@ -4405,7 +7113,29 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "morocco": {
       "sea_20gp_usd": [
@@ -4440,7 +7170,29 @@
       "sea_lcl_usd_cbm": 193,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "mozambique": {
       "sea_20gp_usd": [
@@ -4478,7 +7230,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "myanmar": {
       "sea_20gp_usd": [
@@ -4516,7 +7290,35 @@
       "sea_lcl_usd_cbm": 29,
       "express_perkg_usd": 2.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "namibia": {
       "sea_20gp_usd": [
@@ -4551,7 +7353,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "nauru": {
       "sea_20gp_usd": [
@@ -4589,7 +7413,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "nepal": {
       "sea_20gp_usd": [
@@ -4627,7 +7473,29 @@
       "sea_lcl_usd_cbm": 53,
       "express_perkg_usd": 7.84,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "netherlands": {
       "sea_20gp_usd": [
@@ -4671,7 +7539,35 @@
       "rail_40gp_usd": [
         5875,
         7180
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "new-zealand": {
       "sea_20gp_usd": [
@@ -4706,7 +7602,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 6.72,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates competitive for December"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — book 3-4 weeks ahead for peak periods"
+          },
+          {
+            "label": "Transit times",
+            "icon": "clock",
+            "status": "normal",
+            "text": "standard transit times maintained — no weather disruptions expected"
+          }
+        ]
+      }
     },
     "nicaragua": {
       "sea_20gp_usd": [
@@ -4744,7 +7668,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "niger": {
       "sea_20gp_usd": [
@@ -4779,7 +7725,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "nigeria": {
       "sea_20gp_usd": [
@@ -4814,7 +7782,29 @@
       "sea_lcl_usd_cbm": 172,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "north-korea": {
       "sea_20gp_usd": [
@@ -4852,7 +7842,29 @@
       "sea_lcl_usd_cbm": 20,
       "express_perkg_usd": 2.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "north-macedonia": {
       "sea_20gp_usd": [
@@ -4890,7 +7902,29 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "norway": {
       "sea_20gp_usd": [
@@ -4934,7 +7968,35 @@
       "rail_40gp_usd": [
         6623,
         8095
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "oman": {
       "sea_20gp_usd": [
@@ -4972,7 +8034,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "pakistan": {
       "sea_20gp_usd": [
@@ -5010,7 +8100,29 @@
       "sea_lcl_usd_cbm": 30,
       "express_perkg_usd": 8.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "palau": {
       "sea_20gp_usd": [
@@ -5048,7 +8160,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "panama": {
       "sea_20gp_usd": [
@@ -5086,7 +8220,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 15.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "papua-new-guinea": {
       "sea_20gp_usd": [
@@ -5124,7 +8280,35 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates competitive for December"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — book 3-4 weeks ahead for peak periods"
+          },
+          {
+            "label": "Transit times",
+            "icon": "clock",
+            "status": "normal",
+            "text": "standard transit times maintained — no weather disruptions expected"
+          }
+        ]
+      }
     },
     "paraguay": {
       "sea_20gp_usd": [
@@ -5159,7 +8343,35 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          },
+          {
+            "label": "Transit planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "plan for additional transit time through neighboring ports"
+          }
+        ]
+      }
     },
     "peru": {
       "sea_20gp_usd": [
@@ -5194,7 +8406,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "philippines": {
       "sea_20gp_usd": [
@@ -5232,7 +8466,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 2.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "poland": {
       "sea_20gp_usd": [
@@ -5276,7 +8538,35 @@
       "rail_40gp_usd": [
         5760,
         7040
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "portugal": {
       "sea_20gp_usd": [
@@ -5314,7 +8604,35 @@
       "sea_lcl_usd_cbm": 30,
       "express_perkg_usd": 11.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "qatar": {
       "sea_20gp_usd": [
@@ -5352,7 +8670,35 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "romania": {
       "sea_20gp_usd": [
@@ -5396,7 +8742,35 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "russia": {
       "sea_20gp_usd": [
@@ -5440,7 +8814,29 @@
       "rail_40gp_usd": [
         4608,
         5632
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "rwanda": {
       "sea_20gp_usd": [
@@ -5475,7 +8871,29 @@
       "sea_lcl_usd_cbm": 360,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "saint-kitts-and-nevis": {
       "sea_20gp_usd": [
@@ -5513,7 +8931,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "saint-lucia": {
       "sea_20gp_usd": [
@@ -5551,7 +8991,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "saint-vincent-and-the-grenadines": {
       "sea_20gp_usd": [
@@ -5589,7 +9051,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "samoa": {
       "sea_20gp_usd": [
@@ -5627,7 +9111,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "san-marino": {
       "sea_20gp_usd": [
@@ -5665,7 +9171,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "sao-tome-and-principe": {
       "sea_20gp_usd": [
@@ -5700,7 +9228,29 @@
       "sea_lcl_usd_cbm": 163,
       "express_perkg_usd": 13.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "saudi-arabia": {
       "sea_20gp_usd": [
@@ -5738,7 +9288,35 @@
       "sea_lcl_usd_cbm": 25,
       "express_perkg_usd": 9.6,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "senegal": {
       "sea_20gp_usd": [
@@ -5773,7 +9351,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "serbia": {
       "sea_20gp_usd": [
@@ -5817,7 +9417,29 @@
       "rail_40gp_usd": [
         6623,
         8095
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "seychelles": {
       "sea_20gp_usd": [
@@ -5852,7 +9474,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "sierra-leone": {
       "sea_20gp_usd": [
@@ -5887,7 +9531,29 @@
       "sea_lcl_usd_cbm": 134,
       "express_perkg_usd": 13.92,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "singapore": {
       "sea_20gp_usd": [
@@ -5925,7 +9591,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 2.72,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "slovakia": {
       "sea_20gp_usd": [
@@ -5969,7 +9663,35 @@
       "rail_40gp_usd": [
         5875,
         7180
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "slovenia": {
       "sea_20gp_usd": [
@@ -6007,7 +9729,35 @@
       "sea_lcl_usd_cbm": 103,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "increased holiday demand — allow extra time for express deliveries"
+          }
+        ]
+      }
     },
     "solomon-islands": {
       "sea_20gp_usd": [
@@ -6045,7 +9795,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "somalia": {
       "sea_20gp_usd": [
@@ -6080,7 +9852,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "south-africa": {
       "sea_20gp_usd": [
@@ -6115,7 +9909,29 @@
       "sea_lcl_usd_cbm": 200,
       "express_perkg_usd": 11.46,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "south-korea": {
       "sea_20gp_usd": [
@@ -6153,7 +9969,35 @@
       "sea_lcl_usd_cbm": 20,
       "express_perkg_usd": 2.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "stable capacity on major routes — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from China ports — book 2 weeks ahead for peak periods"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — standard transit times maintained"
+          }
+        ]
+      }
     },
     "south-sudan": {
       "sea_20gp_usd": [
@@ -6191,7 +10035,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "spain": {
       "sea_20gp_usd": [
@@ -6235,7 +10101,35 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "sri-lanka": {
       "sea_20gp_usd": [
@@ -6273,7 +10167,29 @@
       "sea_lcl_usd_cbm": 45,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "sudan": {
       "sea_20gp_usd": [
@@ -6308,7 +10224,29 @@
       "sea_lcl_usd_cbm": 292,
       "express_perkg_usd": 10.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "suriname": {
       "sea_20gp_usd": [
@@ -6343,7 +10281,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "sweden": {
       "sea_20gp_usd": [
@@ -6387,7 +10347,35 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "switzerland": {
       "sea_20gp_usd": [
@@ -6431,7 +10419,35 @@
       "rail_40gp_usd": [
         6220,
         7603
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "syria": {
       "sea_20gp_usd": [
@@ -6469,7 +10485,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "taiwan": {
       "sea_20gp_usd": [
@@ -6507,7 +10545,35 @@
       "sea_lcl_usd_cbm": 20,
       "express_perkg_usd": 2.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "stable capacity on major routes — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from China ports — book 2 weeks ahead for peak periods"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — standard transit times maintained"
+          }
+        ]
+      }
     },
     "tajikistan": {
       "sea_20gp_usd": [
@@ -6551,7 +10617,29 @@
       "rail_40gp_usd": [
         4896,
         5984
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "tanzania": {
       "sea_20gp_usd": [
@@ -6586,7 +10674,29 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "thailand": {
       "sea_20gp_usd": [
@@ -6624,7 +10734,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 1.6,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "timor-leste": {
       "sea_20gp_usd": [
@@ -6662,7 +10800,29 @@
       "sea_lcl_usd_cbm": 29,
       "express_perkg_usd": 2.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "togo": {
       "sea_20gp_usd": [
@@ -6697,7 +10857,29 @@
       "sea_lcl_usd_cbm": 120,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "tonga": {
       "sea_20gp_usd": [
@@ -6735,7 +10917,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "trinidad-and-tobago": {
       "sea_20gp_usd": [
@@ -6773,7 +10977,29 @@
       "sea_lcl_usd_cbm": 316,
       "express_perkg_usd": 16.0,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "tunisia": {
       "sea_20gp_usd": [
@@ -6808,7 +11034,29 @@
       "sea_lcl_usd_cbm": 193,
       "express_perkg_usd": 10.08,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          }
+        ]
+      }
     },
     "turkey": {
       "sea_20gp_usd": [
@@ -6849,7 +11097,35 @@
       "rail_40gp_usd": [
         7110,
         8690
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "turkmenistan": {
       "sea_20gp_usd": [
@@ -6893,7 +11169,29 @@
       "rail_40gp_usd": [
         5184,
         6336
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "tuvalu": {
       "sea_20gp_usd": [
@@ -6931,7 +11229,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "uganda": {
       "sea_20gp_usd": [
@@ -6966,7 +11286,35 @@
       "sea_lcl_usd_cbm": 76,
       "express_perkg_usd": 8.8,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — book early for best rates"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available to major African ports — allow standard transit times"
+          },
+          {
+            "label": "Inland transit",
+            "icon": "truck",
+            "status": "normal",
+            "text": "plan for port-to-destination transit — allow extra time for customs"
+          }
+        ]
+      }
     },
     "ukraine": {
       "sea_20gp_usd": [
@@ -7010,7 +11358,29 @@
       "rail_40gp_usd": [
         6336,
         7744
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "united-arab-emirates": {
       "sea_20gp_usd": [
@@ -7048,7 +11418,35 @@
       "sea_lcl_usd_cbm": 15,
       "express_perkg_usd": 9.76,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity stable — competitive rates available"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability to Gulf ports — standard transit times maintained"
+          },
+          {
+            "label": "Express networks",
+            "icon": "truck",
+            "status": "normal",
+            "text": "operating normally — no major disruptions reported"
+          }
+        ]
+      }
     },
     "united-kingdom": {
       "sea_20gp_usd": [
@@ -7092,7 +11490,35 @@
       "rail_40gp_usd": [
         6623,
         8095
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday season increasing demand — book early for guaranteed space"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "good availability from North Europe ports — competitive rates"
+          },
+          {
+            "label": "Rail freight",
+            "icon": "container",
+            "status": "normal",
+            "text": "China-Europe rail services operating normally — reliable transit times"
+          }
+        ]
+      }
     },
     "united-states": {
       "sea_20gp_usd": [
@@ -7127,7 +11553,35 @@
       "sea_lcl_usd_cbm": 118,
       "express_perkg_usd": 11.2,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "tighter",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air capacity",
+            "icon": "airplane",
+            "status": "tighter",
+            "text": "holiday peak season — book early for December departures"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available on major routes — West Coast ports operating normally"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "tighter",
+            "text": "holiday rush affecting express networks — book early for guaranteed delivery"
+          }
+        ]
+      }
     },
     "uruguay": {
       "sea_20gp_usd": [
@@ -7162,7 +11616,29 @@
       "sea_lcl_usd_cbm": 110,
       "express_perkg_usd": 17.6,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "uzbekistan": {
       "sea_20gp_usd": [
@@ -7206,7 +11682,29 @@
       "rail_40gp_usd": [
         4608,
         5632
-      ]
+      ],
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "vanuatu": {
       "sea_20gp_usd": [
@@ -7244,7 +11742,29 @@
       "sea_lcl_usd_cbm": 69,
       "express_perkg_usd": 6.4,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "vatican-city": {
       "sea_20gp_usd": [
@@ -7282,7 +11802,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 10.88,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "venezuela": {
       "sea_20gp_usd": [
@@ -7317,7 +11859,29 @@
       "sea_lcl_usd_cbm": 114,
       "express_perkg_usd": 15.04,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates stable for December shipments"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from China — standard transit times to major ports"
+          }
+        ]
+      }
     },
     "vietnam": {
       "sea_20gp_usd": [
@@ -7355,7 +11919,35 @@
       "sea_lcl_usd_cbm": 5,
       "express_perkg_usd": 2.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — rates remain competitive this month"
+          },
+          {
+            "label": "Sea freight",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available from major Chinese ports — standard transit times"
+          },
+          {
+            "label": "Express services",
+            "icon": "truck",
+            "status": "normal",
+            "text": "no major disruptions — book express for urgent shipments"
+          }
+        ]
+      }
     },
     "yemen": {
       "sea_20gp_usd": [
@@ -7393,7 +11985,29 @@
       "sea_lcl_usd_cbm": 96,
       "express_perkg_usd": 10.24,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "zambia": {
       "sea_20gp_usd": [
@@ -7428,7 +12042,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     },
     "zimbabwe": {
       "sea_20gp_usd": [
@@ -7463,7 +12099,29 @@
       "sea_lcl_usd_cbm": 106,
       "express_perkg_usd": 11.52,
       "rail_20gp_usd": null,
-      "rail_40gp_usd": null
+      "rail_40gp_usd": null,
+      "market_snapshot": {
+        "items": [
+          {
+            "label": "Year-end planning",
+            "icon": "calendar",
+            "status": "normal",
+            "text": "holiday season approaching — book early for December shipments to avoid delays"
+          },
+          {
+            "label": "Air freight",
+            "icon": "airplane",
+            "status": "normal",
+            "text": "capacity available — contact for current rates and availability"
+          },
+          {
+            "label": "Ocean space",
+            "icon": "container",
+            "status": "stable",
+            "text": "space available — standard transit times apply"
+          }
+        ]
+      }
     }
   }
 }
