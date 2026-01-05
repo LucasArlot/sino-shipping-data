@@ -1807,11 +1807,12 @@
             </div>
 
             <div class="header-actions">
+                <span class="auto-save-indicator" id="autoSaveIndicator" title="Data is saved locally in your browser">💾 Auto-saved</span>
                 <button class="btn btn-icon" id="undoBtn" onclick="undo()" title="Undo (⌘Z)">↩️</button>
                 <button class="btn btn-icon" id="redoBtn" onclick="redo()" title="Redo (⌘⇧Z)">↪️</button>
                 <button class="btn btn-icon" onclick="loadExistingFile()" title="Load file">📂</button>
                 <button class="btn btn-success" onclick="downloadJSON()" title="Download (⌘S)" id="downloadBtn">
-                    💾 Save
+                    📥 Export
                 </button>
             </div>
         </div>
@@ -2226,8 +2227,32 @@ spain	3230	4750	7.26	215"></textarea>
         const redoHistory = [];
         const MAX_HISTORY = 50;
 
-        // Auto-save key
-        const AUTOSAVE_KEY = 'sino-rates-generator-draft';
+        // Auto-save key (per month)
+        function getAutoSaveKey() {
+            const month = document.getElementById('selectMonth')?.value || '01';
+            const year = document.getElementById('selectYear')?.value || '2026';
+            return `sino-rates-draft-${year}-${month}`;
+        }
+        
+        // List all drafts
+        function getAllDrafts() {
+            const drafts = [];
+            for (let i = 0; i < localStorage.length; i++) {
+                const key = localStorage.key(i);
+                if (key && key.startsWith('sino-rates-draft-')) {
+                    try {
+                        const data = JSON.parse(localStorage.getItem(key));
+                        drafts.push({
+                            key,
+                            yearMonth: key.replace('sino-rates-draft-', ''),
+                            timestamp: data.timestamp,
+                            modifiedCount: data.modifiedCountries?.length || 0
+                        });
+                    } catch (e) {}
+                }
+            }
+            return drafts.sort((a, b) => b.timestamp - a.timestamp);
+        }
 
         // GitHub repository for historical data
         const GITHUB_RAW_URL = 'https://raw.githubusercontent.com/LucasArlot/sino-shipping-data/main/data/rates/';
@@ -3696,22 +3721,48 @@ spain	3230	4750	7.26	215"></textarea>
                     selectedCountry,
                     timestamp: Date.now()
                 };
-                localStorage.setItem(AUTOSAVE_KEY, JSON.stringify(data));
+                localStorage.setItem(getAutoSaveKey(), JSON.stringify(data));
                 updateAutoSaveIndicator();
+                console.log(`💾 Auto-saved to ${getAutoSaveKey()}`);
             } catch (e) {
                 console.warn('Auto-save failed:', e);
+                // Try to free up space by removing old drafts
+                cleanupOldDrafts();
+            }
+        }
+        
+        function cleanupOldDrafts() {
+            const drafts = getAllDrafts();
+            // Keep only the 5 most recent drafts
+            if (drafts.length > 5) {
+                drafts.slice(5).forEach(draft => {
+                    localStorage.removeItem(draft.key);
+                });
             }
         }
 
         function restoreFromDraft() {
-            try {
-                const draft = localStorage.getItem(AUTOSAVE_KEY);
-                if (!draft) return false;
+            // First, find the most recent draft
+            const drafts = getAllDrafts();
+            if (drafts.length === 0) return false;
+            
+            const mostRecent = drafts[0];
+            const draft = localStorage.getItem(mostRecent.key);
+            if (!draft) return false;
 
+            try {
                 const data = JSON.parse(draft);
                 const age = Date.now() - data.timestamp;
                 const ageMinutes = Math.round(age / 60000);
-                const ageText = ageMinutes < 60 ? `${ageMinutes} min ago` : `${Math.round(ageMinutes / 60)}h ago`;
+                const ageDays = Math.round(ageMinutes / 1440);
+                let ageText;
+                if (ageDays > 0) {
+                    ageText = `${ageDays} day${ageDays > 1 ? 's' : ''} ago`;
+                } else if (ageMinutes >= 60) {
+                    ageText = `${Math.round(ageMinutes / 60)}h ago`;
+                } else {
+                    ageText = `${ageMinutes} min ago`;
+                }
 
                 if (data.modifiedCountries && data.modifiedCountries.length > 0) {
                     if (confirm(`🔄 Restore previous session?\n\n${data.modifiedCountries.length} countries modified\nSaved: ${ageText}`)) {
@@ -3744,9 +3795,20 @@ spain	3230	4750	7.26	215"></textarea>
         }
 
         function clearDraft() {
-            localStorage.removeItem(AUTOSAVE_KEY);
+            localStorage.removeItem(getAutoSaveKey());
             updateAutoSaveIndicator();
         }
+        
+        // Warn before leaving with unsaved changes
+        window.addEventListener('beforeunload', (e) => {
+            if (modifiedCountries.size > 0) {
+                // Auto-save one last time
+                autoSave();
+                // Show warning (most browsers ignore custom messages)
+                e.preventDefault();
+                e.returnValue = '';
+            }
+        });
 
         function updateAutoSaveIndicator() {
             const indicator = document.getElementById('autoSaveIndicator');
