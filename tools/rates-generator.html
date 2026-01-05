@@ -470,6 +470,221 @@
             border-radius: 4px;
         }
 
+        /* Read-only View Mode */
+        .readonly-view {
+            padding: 0.5rem 0;
+        }
+
+        .readonly-banner {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            padding: 0.75rem 1rem;
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.15) 0%, rgba(59, 130, 246, 0.05) 100%);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 10px;
+            margin-bottom: 1.25rem;
+            color: var(--info);
+        }
+
+        .readonly-banner-icon {
+            font-size: 1.25rem;
+        }
+
+        .readonly-banner-text {
+            font-size: 0.8rem;
+            line-height: 1.4;
+        }
+
+        .rate-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .rate-card {
+            background: linear-gradient(135deg, var(--bg-tertiary) 0%, var(--bg-card) 100%);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1rem;
+            transition: all 0.2s;
+        }
+
+        .rate-card:hover {
+            border-color: var(--accent);
+            transform: translateY(-2px);
+        }
+
+        .rate-card-header {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.75rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .rate-card-icon {
+            font-size: 1.1rem;
+        }
+
+        .rate-card-title {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--text-secondary);
+        }
+
+        .rate-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.4rem 0;
+        }
+
+        .rate-row:not(:last-child) {
+            border-bottom: 1px dashed rgba(255,255,255,0.05);
+        }
+
+        .rate-label {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        .rate-value {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: var(--accent);
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        .rate-value.empty {
+            color: var(--text-muted);
+            font-weight: 400;
+            font-style: italic;
+        }
+
+        .rate-range {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .rate-range-separator {
+            color: var(--text-muted);
+            font-size: 0.7rem;
+        }
+
+        .snapshot-cards {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .snapshot-card {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+            padding: 0.875rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            transition: all 0.2s;
+        }
+
+        .snapshot-card:hover {
+            border-color: rgba(214, 223, 32, 0.3);
+            background: rgba(214, 223, 32, 0.03);
+        }
+
+        .snapshot-icon-wrapper {
+            width: 36px;
+            height: 36px;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            flex-shrink: 0;
+        }
+
+        .snapshot-icon-wrapper.up {
+            background: rgba(239, 68, 68, 0.15);
+        }
+
+        .snapshot-icon-wrapper.down {
+            background: rgba(16, 185, 129, 0.15);
+        }
+
+        .snapshot-icon-wrapper.stable {
+            background: rgba(59, 130, 246, 0.15);
+        }
+
+        .snapshot-content {
+            flex: 1;
+            min-width: 0;
+        }
+
+        .snapshot-label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .snapshot-text {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            line-height: 1.4;
+        }
+
+        .snapshot-status {
+            font-size: 0.65rem;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .snapshot-status.up {
+            background: rgba(239, 68, 68, 0.15);
+            color: #ef4444;
+        }
+
+        .snapshot-status.down {
+            background: rgba(16, 185, 129, 0.15);
+            color: #10b981;
+        }
+
+        .snapshot-status.stable {
+            background: rgba(59, 130, 246, 0.15);
+            color: #3b82f6;
+        }
+
+        .section-divider {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin: 1.25rem 0 1rem;
+        }
+
+        .section-divider-line {
+            flex: 1;
+            height: 1px;
+            background: linear-gradient(90deg, var(--border-color) 0%, transparent 100%);
+        }
+
+        .section-divider-title {
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-muted);
+            white-space: nowrap;
+        }
+
         /* Country Navigation */
         .country-nav {
             display: flex;
@@ -2413,6 +2628,12 @@ spain	3230	4750	7.26	215"></textarea>
             const hasOptions = sameRegion.length > 0 || otherRegions.length > 0;
             
             const filteredList = getFilteredCountryList();
+            
+            // If month is locked, render read-only view
+            if (isMonthLocked) {
+                renderReadOnlyView(rates, data, filteredList);
+                return;
+            }
             const currentIndex = filteredList.indexOf(selectedCountry);
             const hasPrev = currentIndex > 0;
             const hasNext = currentIndex < filteredList.length - 1;
@@ -2622,6 +2843,145 @@ spain	3230	4750	7.26	215"></textarea>
                            oninput="updateSnapshotItem(${index}, 'text', this.value)">
                 </div>
             `).join('');
+        }
+
+        function renderReadOnlyView(rates, data, filteredList) {
+            const currentIndex = filteredList.indexOf(selectedCountry);
+            const hasPrev = currentIndex > 0;
+            const hasNext = currentIndex < filteredList.length - 1;
+            const year = document.getElementById('selectYear').value;
+            const month = document.getElementById('selectMonth').value;
+            const monthNames = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+            const monthName = monthNames[parseInt(month) - 1];
+            
+            document.getElementById('editorTitle').innerHTML = `
+                <div class="country-nav">
+                    <button class="nav-btn" onclick="goToPrevCountry()" ${!hasPrev ? 'disabled' : ''} title="Previous country (↑)">◀</button>
+                    <span class="country-name">${data.flag} ${formatCountryName(selectedCountry)}</span>
+                    <button class="nav-btn" onclick="goToNextCountry()" ${!hasNext ? 'disabled' : ''} title="Next country (↓)">▶</button>
+                </div>
+                <span class="status-badge locked">🔒 ${monthName} ${year}</span>
+            `;
+
+            const formatValue = (val) => {
+                if (val === null || val === undefined) return '<span class="rate-value empty">—</span>';
+                return `<span class="rate-value">$${Number(val).toLocaleString()}</span>`;
+            };
+
+            const formatRange = (arr) => {
+                if (!arr || (!arr[0] && !arr[1])) return '<span class="rate-value empty">—</span>';
+                if (arr[0] && arr[1]) {
+                    return `<span class="rate-range">${formatValue(arr[0])}<span class="rate-range-separator">→</span>${formatValue(arr[1])}</span>`;
+                }
+                return formatValue(arr[0] || arr[1]);
+            };
+
+            const getStatusIcon = (status) => {
+                switch(status) {
+                    case 'up': return '📈';
+                    case 'down': return '📉';
+                    default: return '📊';
+                }
+            };
+
+            const snapshotItems = rates.market_snapshot?.items || [];
+
+            document.getElementById('editorContent').innerHTML = `
+                <div class="readonly-view">
+                    <div class="readonly-banner">
+                        <span class="readonly-banner-icon">📋</span>
+                        <span class="readonly-banner-text">
+                            <strong>Published data</strong> — This month has been finalized. 
+                            Use the arrows to browse countries or change month to edit a new period.
+                        </span>
+                    </div>
+
+                    <div class="rate-cards">
+                        <div class="rate-card">
+                            <div class="rate-card-header">
+                                <span class="rate-card-icon">🚢</span>
+                                <span class="rate-card-title">Sea Freight (FCL)</span>
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">20GP</span>
+                                ${formatRange(rates.sea_20gp_usd)}
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">40GP</span>
+                                ${formatRange(rates.sea_40gp_usd)}
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">LCL /CBM</span>
+                                ${formatValue(rates.sea_lcl_usd_cbm)}
+                            </div>
+                        </div>
+
+                        <div class="rate-card">
+                            <div class="rate-card-header">
+                                <span class="rate-card-icon">✈️</span>
+                                <span class="rate-card-title">Air Freight</span>
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">Per KG (1000kg+)</span>
+                                ${formatValue(rates.air_perkg_usd_1000kg)}
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">Express /KG</span>
+                                ${formatValue(rates.air_express_perkg_usd)}
+                            </div>
+                        </div>
+
+                        <div class="rate-card">
+                            <div class="rate-card-header">
+                                <span class="rate-card-icon">🚂</span>
+                                <span class="rate-card-title">Rail Freight</span>
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">20GP</span>
+                                ${formatRange(rates.rail_20gp_usd)}
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">40GP</span>
+                                ${formatRange(rates.rail_40gp_usd)}
+                            </div>
+                            <div class="rate-row">
+                                <span class="rate-label">LCL /CBM</span>
+                                ${formatValue(rates.rail_lcl_usd_cbm)}
+                            </div>
+                        </div>
+                    </div>
+
+                    ${snapshotItems.length > 0 ? `
+                        <div class="section-divider">
+                            <span class="section-divider-title">📊 Market Snapshot</span>
+                            <div class="section-divider-line"></div>
+                        </div>
+
+                        <div class="snapshot-cards">
+                            ${snapshotItems.map(item => `
+                                <div class="snapshot-card">
+                                    <div class="snapshot-icon-wrapper ${item.status || 'stable'}">
+                                        ${getStatusIcon(item.status)}
+                                    </div>
+                                    <div class="snapshot-content">
+                                        <div class="snapshot-label">${item.label || 'Market update'}</div>
+                                        <div class="snapshot-text">${item.text || ''}</div>
+                                    </div>
+                                    <span class="snapshot-status ${item.status || 'stable'}">${item.status || 'stable'}</span>
+                                </div>
+                            `).join('')}
+                        </div>
+                    ` : `
+                        <div class="section-divider">
+                            <span class="section-divider-title">📊 Market Snapshot</span>
+                            <div class="section-divider-line"></div>
+                        </div>
+                        <div style="color: var(--text-muted); font-size: 0.85rem; padding: 1rem; text-align: center;">
+                            No market snapshot data for this country
+                        </div>
+                    `}
+                </div>
+            `;
         }
 
         function updateRate(field, index, value) {
