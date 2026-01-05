@@ -334,6 +334,20 @@
             cursor: not-allowed;
         }
 
+        .export-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.25rem;
+        }
+
+        .export-hint {
+            font-size: 0.6rem;
+            color: var(--text-muted);
+            opacity: 0.7;
+            white-space: nowrap;
+        }
+
         /* Collapsible Cards */
         .collapsible-card .card-header.clickable {
             cursor: pointer;
@@ -2028,9 +2042,12 @@
                 <button class="btn btn-icon" id="undoBtn" onclick="undo()" title="Undo (⌘Z)">↩️</button>
                 <button class="btn btn-icon" id="redoBtn" onclick="redo()" title="Redo (⌘⇧Z)">↪️</button>
                 <button class="btn btn-icon" onclick="loadExistingFile()" title="Load file">📂</button>
-                <button class="btn btn-success" onclick="downloadJSON()" title="Download (⌘S)" id="downloadBtn">
-                    📥 Export
-                </button>
+                <div class="export-wrapper">
+                    <button class="btn btn-success" onclick="downloadJSON()" title="Download (⌘S)" id="downloadBtn">
+                        📥 Export
+                    </button>
+                    <span class="export-hint">Once complete, send file to Lucas</span>
+                </div>
             </div>
         </div>
     </header>
